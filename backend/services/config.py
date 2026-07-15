@@ -67,3 +67,7 @@ CORS_ORIGINS = [
     for origin in os.getenv("BACKEND_CORS_ORIGINS", "http://localhost:5173").split(",")
     if origin.strip()
 ]
+
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "").strip()
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash").strip()
+GEMINI_API_TIMEOUT = float(os.getenv("GEMINI_API_TIMEOUT", "30"))

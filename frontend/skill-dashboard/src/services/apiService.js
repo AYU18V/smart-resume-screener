@@ -51,6 +51,17 @@ export const matchSkills = (resumeSkills, marketSkills, topK = 10) => request("/
   })
 })
 
+export const matchResume = (resumeText, jobDescription) => request("/match-resume", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json"
+  },
+  body: JSON.stringify({
+    resume_text: resumeText,
+    job_description: jobDescription
+  })
+})
+
 export const fetchForecast = (months = 6) => request(`/forecast-skills?months=${months}`)
 
 export const fetchDatasetInsights = () => request("/dataset-insights")

@@ -39,7 +39,9 @@ from services.forecast_service import (
 
 from services.recommendation_service import recommend_skills
 
-from services.resume_service import analyze_resume_file
+from services.llm_service import LLMServiceError, analyze_resume_match
+
+from services.resume_service import analyze_resume_upload
 
 from services.skill_extraction_service import extract_skills
 
@@ -76,6 +78,11 @@ class MatchSkillsRequest(BaseModel):
     resume_skills: list[str] = Field(default_factory=list)
     market_skills: list[str] | None = None
     top_k: int = Field(default=10, ge=1, le=50)
+
+
+class MatchResumeRequest(BaseModel):
+    resume_text: str = Field(..., min_length=1)
+    job_description: str = Field(..., min_length=1)
 
 
 class PredictDemandRequest(BaseModel):
@@ -122,20 +129,51 @@ def skill_trends():
 @app.post("/analyze-resume")
 async def analyze_resume(file: UploadFile = File(...)):
 
-    if not file.filename.lower().endswith(".pdf"):
+    if not file.filename.lower().endswith((".pdf", ".txt")):
         raise HTTPException(
             status_code=400,
-            detail="Please upload a PDF resume."
+            detail="Please upload a PDF or TXT resume."
         )
 
     try:
-        result = analyze_resume_file(file.file)
+        result = analyze_resume_upload(file.file, file.filename)
         return result
+
+    except ValueError as exc:
+        raise HTTPException(
+            status_code=400,
+            detail=str(exc)
+        ) from exc
 
     except Exception as exc:
         raise HTTPException(
             status_code=500,
             detail=f"Resume analysis failed: {exc}"
+        ) from exc
+
+# ---------------------------------------------------
+# LLM RESUME MATCHING
+# ---------------------------------------------------
+
+@app.post("/match-resume")
+def match_resume_payload(payload: MatchResumeRequest):
+
+    try:
+        return analyze_resume_match(
+            resume_text=payload.resume_text,
+            job_description=payload.job_description
+        )
+
+    except LLMServiceError as exc:
+        raise HTTPException(
+            status_code=exc.status_code,
+            detail=str(exc)
+        ) from exc
+
+    except Exception as exc:
+        raise HTTPException(
+            status_code=500,
+            detail=f"LLM matching failed: {exc}"
         ) from exc
 
 # ---------------------------------------------------

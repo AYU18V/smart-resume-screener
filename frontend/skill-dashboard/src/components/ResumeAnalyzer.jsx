@@ -8,13 +8,14 @@ import {
   FileText,
   GraduationCap,
   Languages,
+  LoaderCircle,
   RotateCcw,
   Sparkles,
   Target,
   UploadCloud,
   XCircle
 } from "lucide-react"
-import { analyzeResume, extractSkills, matchSkills } from "../services/apiService"
+import { analyzeResume, extractSkills, matchResume, matchSkills } from "../services/apiService"
 
 const asArray = (value) => {
   if (Array.isArray(value)) return value.filter(Boolean)
@@ -56,11 +57,13 @@ function ResumeAnalyzer({ onAnalysisComplete }) {
 
   const detectedSkills = useMemo(() => asArray(result?.detected_skills).map(skillName).filter(Boolean), [result])
   const matchedSkills = useMemo(() => {
+    const explicit = asArray(result?.matching_skills).map(skillName).filter(Boolean)
+    if (explicit.length) return explicit
     return asArray(matchResult?.matches)
       .filter((item) => item?.recommended !== true)
       .map(skillName)
       .filter(Boolean)
-  }, [matchResult])
+  }, [matchResult, result])
 
   const missingSkills = useMemo(() => {
     const explicit = asArray(result?.missing_skills).map(skillName).filter(Boolean)
@@ -146,20 +149,36 @@ function ResumeAnalyzer({ onAnalysisComplete }) {
 
       const matches = await matchSkills(asArray(resumeData.detected_skills), jdSkills, 12)
       setMatchResult(matches)
-      setResult(resumeData)
+
+      let llmResult = null
+      let llmError = ""
+      try {
+        setProgress(88)
+        llmResult = await matchResume(resumeData.resume_text || "", jobDescription)
+      } catch (llmErr) {
+        llmError = llmErr.message
+      }
+
+      const combinedResult = {
+        ...resumeData,
+        ...(llmResult || {}),
+        llm_match: llmResult,
+        llm_error: llmError
+      }
+      setResult(combinedResult)
       setProgress(100)
 
-      const score = resumeData.match_score !== undefined
-        ? percent(resumeData.match_score)
-        : resumeData.semantic_match_score !== undefined
-          ? percent(resumeData.semantic_match_score)
-          : resumeData.ats_score !== undefined
-            ? percent(resumeData.ats_score)
+      const score = combinedResult.match_score !== undefined
+        ? percent(combinedResult.match_score)
+        : combinedResult.semantic_match_score !== undefined
+          ? percent(combinedResult.semantic_match_score)
+          : combinedResult.ats_score !== undefined
+            ? percent(combinedResult.ats_score)
             : percent((matches.matches || []).reduce((total, item) => total + Number(item.score || 0), 0) / Math.max((matches.matches || []).length, 1) * 100)
 
-      const topSkills = asArray(resumeData.detected_skills).map(skillName).filter(Boolean).slice(0, 6)
+      const topSkills = asArray(combinedResult.matching_skills?.length ? combinedResult.matching_skills : combinedResult.detected_skills).map(skillName).filter(Boolean).slice(0, 6)
       const status = score >= 75 ? "Shortlisted" : "Review"
-      const candidateName = resumeData.candidate_name || resumeData.name || resumeFile.name.replace(/\.[^.]+$/, "")
+      const candidateName = combinedResult.candidate_name || combinedResult.name || resumeFile.name.replace(/\.[^.]+$/, "")
 
       onAnalysisComplete?.({
         id: `${resumeFile.name}-${Date.now()}`,
@@ -167,18 +186,22 @@ function ResumeAnalyzer({ onAnalysisComplete }) {
         fileName: resumeFile.name,
         matchScore: score,
         status,
-        education: resumeData.education || resumeData.highest_education || "Not detected",
-        experience: resumeData.experience || resumeData.total_experience || "Not detected",
+        education: combinedResult.education_analysis || combinedResult.education || combinedResult.highest_education || "Not detected",
+        experience: combinedResult.experience_analysis || combinedResult.experience || combinedResult.total_experience || "Not detected",
         topSkills,
         createdAt: new Date().toLocaleString(),
-        resumeSummary: resumeData.summary || `Parsed ${resumeFile.name} for skills, experience, education, projects, certifications, and languages.`,
+        resumeSummary: combinedResult.summary || `Parsed ${resumeFile.name} for skills, experience, education, projects, certifications, and languages.`,
         jdSummary: jobDescription.trim().slice(0, 220) || "No job description summary available.",
         comparison: `${topSkills.length} resume skills were compared against ${jdSkills.length} job description skills.`,
-        justification: resumeData.justification || resumeData.ai_suggestion || `The candidate received a ${score}% match based on detected resume skills and job description requirements.`,
-        recommendation: status === "Shortlisted"
+        justification: combinedResult.justification || combinedResult.ai_suggestion || `The candidate received a ${score}% match based on detected resume skills and job description requirements.`,
+        recommendation: combinedResult.recommendation || (status === "Shortlisted"
           ? "Shortlist this candidate for recruiter review."
-          : "Review missing skills before shortlisting this candidate."
+          : "Review missing skills before shortlisting this candidate.")
       })
+
+      if (llmError) {
+        setError(`Gemini matching unavailable: ${llmError}. Showing parser and semantic matching results.`)
+      }
     } catch (err) {
       setError(err.message)
     } finally {
@@ -186,8 +209,8 @@ function ResumeAnalyzer({ onAnalysisComplete }) {
     }
   }
 
-  const strengths = asArray(result?.resume_strengths || result?.strengths)
-  const weaknesses = asArray(result?.resume_weaknesses || result?.weaknesses)
+  const strengths = asArray(result?.strengths || result?.resume_strengths)
+  const weaknesses = asArray(result?.weaknesses || result?.resume_weaknesses)
   const recommendations = asArray(result?.career_recommendations || result?.recommendations)
   const candidateName = result?.candidate_name || result?.name || resumeFile?.name?.replace(/\.[^.]+$/, "") || "Candidate"
   const status = matchScore >= 75 ? "Shortlisted" : "Review"
@@ -203,7 +226,7 @@ function ResumeAnalyzer({ onAnalysisComplete }) {
           </p>
         </div>
         <button className="btn-primary" onClick={analyzeCandidate} disabled={loading}>
-          <Sparkles size={18} />
+          {loading ? <LoaderCircle className="animate-spin" size={18} /> : <Sparkles size={18} />}
           {loading ? "Analyzing Candidate" : "Extract and Match"}
         </button>
       </div>
@@ -267,7 +290,10 @@ function ResumeAnalyzer({ onAnalysisComplete }) {
       {loading && (
         <div className="mt-5 rounded-lg border border-blue-100 bg-blue-50 p-4">
           <div className="flex items-center justify-between text-sm font-medium text-blue-800">
-            <span>Processing resume and job description</span>
+            <span className="inline-flex items-center gap-2">
+              <LoaderCircle className="animate-spin" size={16} />
+              Processing resume and job description
+            </span>
             <span>{progress}%</span>
           </div>
           <div className="mt-3 h-2 overflow-hidden rounded-full bg-white">
@@ -297,8 +323,8 @@ function ResumeAnalyzer({ onAnalysisComplete }) {
               <div className="mt-5 grid grid-cols-2 gap-3">
                 <Metric label="Match Score" value={`${matchScore}%`} icon={Target} />
                 <Metric label="Overall Rating" value={inferRating(matchScore)} icon={BadgeCheck} />
-                <Metric label="Experience" value={result.experience || result.total_experience || "Not detected"} icon={BriefcaseBusiness} />
-                <Metric label="Education" value={result.education || result.highest_education || "Not detected"} icon={GraduationCap} />
+                <Metric label="Experience" value={result.experience_analysis || result.experience || result.total_experience || "Not detected"} icon={BriefcaseBusiness} />
+                <Metric label="Education" value={result.education_analysis || result.education || result.highest_education || "Not detected"} icon={GraduationCap} />
               </div>
               <div className="mt-5">
                 <p className="text-sm font-semibold text-slate-900">Top Skills</p>
@@ -319,9 +345,15 @@ function ResumeAnalyzer({ onAnalysisComplete }) {
                 <ResultBlock title="Missing Skills" items={missingSkills.slice(0, 10)} fallback="No missing skills found." tone="red" />
               </div>
               <div className="mt-4 rounded-lg border border-slate-200 bg-slate-50 p-4">
-                <p className="font-semibold text-slate-900">Justification</p>
+                <p className="font-semibold text-slate-900">AI Justification</p>
                 <p className="mt-2 text-sm leading-6 text-slate-600">
                   {result.justification || result.ai_suggestion || `The candidate scored ${matchScore}% based on resume skills compared with job description requirements.`}
+                </p>
+              </div>
+              <div className="mt-4 rounded-lg border border-slate-200 bg-white p-4">
+                <p className="font-semibold text-slate-900">Hiring Recommendation</p>
+                <p className="mt-2 text-sm leading-6 text-slate-600">
+                  {result.recommendation || (status === "Shortlisted" ? "Shortlist this candidate for recruiter review." : "Review missing skills before shortlisting this candidate.")}
                 </p>
               </div>
             </article>

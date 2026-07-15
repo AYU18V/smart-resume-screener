@@ -46,13 +46,30 @@ SECTION_KEYWORDS = {
 
 
 def extract_text_from_pdf(file):
-    reader = PyPDF2.PdfReader(file)
+    try:
+        reader = PyPDF2.PdfReader(file)
+    except Exception as exc:
+        raise ValueError("Invalid PDF resume. Upload a readable PDF or use a TXT resume.") from exc
+
     chunks = []
 
     for page in reader.pages:
         chunks.append(page.extract_text() or "")
 
     return "\n".join(chunks)
+
+
+def extract_text_from_txt(file):
+    raw = file.read()
+    if isinstance(raw, str):
+        return raw
+
+    for encoding in ["utf-8", "utf-16", "latin-1"]:
+        try:
+            return raw.decode(encoding)
+        except UnicodeDecodeError:
+            continue
+    return raw.decode("utf-8", errors="ignore")
 
 
 @lru_cache(maxsize=1)
@@ -416,3 +433,20 @@ def analyze_resume_text(text: str):
 def analyze_resume_file(file):
     text = extract_text_from_pdf(file)
     return analyze_resume_text(text)
+
+
+def analyze_resume_upload(file, filename: str):
+    filename = (filename or "").lower()
+    if filename.endswith(".pdf"):
+        text = extract_text_from_pdf(file)
+    elif filename.endswith(".txt"):
+        text = extract_text_from_txt(file)
+    else:
+        raise ValueError("Only PDF and TXT resumes are supported.")
+
+    if not text.strip():
+        raise ValueError("Resume text could not be extracted from the uploaded file.")
+
+    result = analyze_resume_text(text)
+    result["resume_text"] = text
+    return result
