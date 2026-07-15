@@ -51,42 +51,6 @@ Only document features that actually exist.
 
 ---
 
-# README Structure
-
-Generate a complete professional README containing:
-
-1. Project Title
-2. Badges
-3. Project Overview
-4. Objective
-5. Assignment Overview
-6. Features
-7. Technology Stack
-8. Project Architecture
-9. Workflow
-10. Folder Structure
-11. Installation Guide
-12. Environment Variables
-13. Running the Project
-14. API Documentation
-15. Resume Parsing Pipeline
-16. Google Gemini LLM Integration
-17. Prompt Engineering
-18. Candidate Scoring Logic
-19. AI Recommendation Process
-20. Database Design
-21. Dashboard Overview
-22. Screenshots
-23. Security
-24. Error Handling
-25. Performance Optimizations
-26. Challenges Faced
-27. Future Improvements
-28. Evaluation Focus
-29. Deliverables
-30. Author
-
----
 
 # Architecture
 
