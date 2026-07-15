@@ -1,0 +1,70 @@
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.local
+
+# Python bytecode, caches, and test output
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.coverage
+coverage/
+htmlcov/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Node dependencies and Vite build output
+node_modules/
+frontend/skill-dashboard/node_modules/
+frontend/skill-dashboard/dist/
+frontend/skill-dashboard/.env
+frontend/skill-dashboard/.env.*
+!frontend/skill-dashboard/.env.example
+
+# Logs and runtime output
+*.log
+logs/
+tmp/
+temp/
+uploads/
+temporary_uploads/
+
+# Generated model artifacts and local model caches
+backend/models/forecasting/*
+!backend/models/forecasting/.gitkeep
+backend/models/huggingface/
+*.h5
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.safetensors
+*.pkl
+*.joblib
+
+# Large or regenerated datasets
+backend/data/raw/indian-job-market-dataset-2025.xlsx
+backend/data/processed/unified_workforce_dataset.csv
+
+# Archives and compressed exports
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini

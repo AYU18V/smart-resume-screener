@@ -1,0 +1,2418 @@
+date,skill,jobs_count
+2020-01,AWS,96455.0
+2020-02,AWS,100635.5
+2020-03,AWS,104138.0
+2020-04,AWS,107691.5
+2020-05,AWS,111296.0
+2020-06,AWS,93001.5
+2020-07,AWS,0.0
+2020-08,AWS,0.0
+2020-09,AWS,0.0
+2020-10,AWS,0.0
+2020-11,AWS,0.0
+2020-12,AWS,0.0
+2021-01,AWS,148987.0
+2021-02,AWS,153809.0
+2021-03,AWS,158636.0
+2021-04,AWS,163533.0
+2021-05,AWS,109319.0
+2021-06,AWS,0.0
+2021-07,AWS,0.0
+2021-08,AWS,0.0
+2021-09,AWS,0.0
+2021-10,AWS,0.0
+2021-11,AWS,0.0
+2021-12,AWS,0.0
+2022-01,AWS,75438.5
+2022-02,AWS,78229.0
+2022-03,AWS,80773.0
+2022-04,AWS,83220.0
+2022-05,AWS,85708.0
+2022-06,AWS,88237.0
+2022-07,AWS,0.0
+2022-08,AWS,0.0
+2022-09,AWS,0.0
+2022-10,AWS,0.0
+2022-11,AWS,0.0
+2022-12,AWS,0.0
+2023-01,AWS,97942.0
+2023-02,AWS,101088.0
+2023-03,AWS,104289.0
+2023-04,AWS,13.0
+2023-05,AWS,4.0
+2023-06,AWS,8.0
+2023-07,AWS,13.0
+2023-08,AWS,13.0
+2023-09,AWS,12.0
+2023-10,AWS,15.0
+2023-11,AWS,14.0
+2023-12,AWS,6.0
+2024-01,AWS,105166.5
+2024-02,AWS,108340.0
+2024-03,AWS,111553.0
+2024-04,AWS,10.0
+2024-05,AWS,10.0
+2024-06,AWS,9.0
+2024-07,AWS,16.0
+2024-08,AWS,11.0
+2024-09,AWS,11.0
+2024-10,AWS,10.0
+2024-11,AWS,8.0
+2024-12,AWS,0.0
+2025-01,AWS,0.0
+2025-02,AWS,0.0
+2025-03,AWS,0.0
+2025-04,AWS,0.0
+2025-05,AWS,0.0
+2025-06,AWS,0.0
+2025-07,AWS,0.0
+2025-08,AWS,0.0
+2025-09,AWS,0.0
+2025-10,AWS,0.0
+2025-11,AWS,0.0
+2025-12,AWS,0.0
+2026-01,AWS,0.0
+2026-02,AWS,0.0
+2026-03,AWS,0.0
+2026-04,AWS,0.0
+2026-05,AWS,1677.0
+2026-05,Abap,357.0
+2026-05,Academics,123.0
+2026-05,Access Management,129.0
+2026-05,Account Management,319.0
+2026-05,Accounting,2114.0
+2026-05,Accounts Finalisation,117.0
+2026-05,Accounts Payable,958.0
+2026-05,Accounts Receivable,835.0
+2026-05,Accounts Reconciliation,103.0
+2026-05,Acquisition,446.0
+2026-05,Active Directory,206.0
+2026-05,Administration,974.0
+2026-05,Administration Management,97.0
+2026-05,Admission Counselling,258.0
+2026-05,Admissions,149.0
+2026-05,Ado.Net,286.0
+2026-05,Adobe,255.0
+2026-05,Adobe After Effects,147.0
+2026-05,Adobe Creative Suite,170.0
+2026-05,Adobe Forms,192.0
+2026-05,Adobe Premiere,89.0
+2026-05,Adobe Premiere Pro,131.0
+2026-05,Adobe Xd,93.0
+2026-05,Advanced Excel,331.0
+2026-05,Advertising,174.0
+2026-05,Aem,86.0
+2026-05,Aerospace,105.0
+2026-05,Aftereffects,82.0
+2026-05,Agency,130.0
+2026-05,Agency Channel,320.0
+2026-05,Agency Development,109.0
+2026-05,Agency Sales,175.0
+2026-05,Agile,2219.0
+2026-05,Agile Methodology,407.0
+2026-05,Aiml,127.0
+2026-05,Airflow,254.0
+2026-05,Ajax,162.0
+2026-05,Algorithms,502.0
+2026-05,Amadeus,81.0
+2026-05,Amazon Redshift,100.0
+2026-05,Aml,228.0
+2026-05,Analysis,489.0
+2026-05,Analytical,1932.0
+2026-05,Analytics,577.0
+2026-05,Analyzing Information,139.0
+2026-05,Android,366.0
+2026-05,Angular,828.0
+2026-05,Angularjs,141.0
+2026-05,Animation,80.0
+2026-05,Ansible,219.0
+2026-05,Ansys,87.0
+2026-05,Anti Money Laundering,185.0
+2026-05,Apache,144.0
+2026-05,Apex,207.0
+2026-05,Api,693.0
+2026-05,Api Integration,174.0
+2026-05,Api Management,83.0
+2026-05,Api Testing,248.0
+2026-05,Appium,117.0
+2026-05,Application,208.0
+2026-05,Application Design,764.0
+2026-05,Application Development,1432.0
+2026-05,Application Lifecycle Management,160.0
+2026-05,Application Software,149.0
+2026-05,Application Support,207.0
+2026-05,Apqp,82.0
+2026-05,Ar Calling,222.0
+2026-05,Architect,91.0
+2026-05,Architecting,144.0
+2026-05,Architectural Design,303.0
+2026-05,Architecture,757.0
+2026-05,Area Sales,276.0
+2026-05,Area Sales Management,262.0
+2026-05,Article Writing,80.0
+2026-05,Artificial Intelligence,916.0
+2026-05,As400,94.0
+2026-05,Asp,112.0
+2026-05,Asp.Net,272.0
+2026-05,Asp.Net Core,120.0
+2026-05,Asset,82.0
+2026-05,Asset Management,240.0
+2026-05,Assistance,534.0
+2026-05,Assurance,380.0
+2026-05,Ats,93.0
+2026-05,Attendance Management,88.0
+2026-05,Audit Compliance,86.0
+2026-05,Auditing,636.0
+2026-05,Auto,112.0
+2026-05,Auto Loans,82.0
+2026-05,Autocad,1043.0
+2026-05,Autocad 2D,84.0
+2026-05,Automation,2033.0
+2026-05,Automation Framework,168.0
+2026-05,Automation Testing,927.0
+2026-05,Automobile,168.0
+2026-05,Automotive,209.0
+2026-05,Aviation,80.0
+2026-05,Aws Cloud,125.0
+2026-05,Azure,361.0
+2026-05,Azure Cloud,236.0
+2026-05,Azure Data Factory,163.0
+2026-05,Azure Databricks,149.0
+2026-05,Azure Devops,228.0
+2026-05,B2B,583.0
+2026-05,B2B Marketing,146.0
+2026-05,B2B Sales,1376.0
+2026-05,B2C,203.0
+2026-05,B2C Sales,713.0
+2026-05,Back Office,253.0
+2026-05,Back Office Operations,100.0
+2026-05,Backend,641.0
+2026-05,Backend Development,80.0
+2026-05,Backend Operations,110.0
+2026-05,Balance Sheet,390.0
+2026-05,Balance Sheet Reconciliation,151.0
+2026-05,Banca,187.0
+2026-05,Banca Sales,119.0
+2026-05,Bancassurance,206.0
+2026-05,Bancassurance Sales,94.0
+2026-05,Bank Reconciliation,309.0
+2026-05,Banking,696.0
+2026-05,Banking Operations,234.0
+2026-05,Banking Process,162.0
+2026-05,Banking Products,110.0
+2026-05,Banking Sales,143.0
+2026-05,Basic,209.0
+2026-05,Bd,80.0
+2026-05,Bdc,111.0
+2026-05,Bde,178.0
+2026-05,Bdm,142.0
+2026-05,Bed,234.0
+2026-05,Behavioural Training,107.0
+2026-05,Bengali,99.0
+2026-05,Bfsi,275.0
+2026-05,Bfsi Sales,320.0
+2026-05,Bi,293.0
+2026-05,Bidding,134.0
+2026-05,Big Data,209.0
+2026-05,Bigquery,146.0
+2026-05,Bilingual,110.0
+2026-05,Billing,629.0
+2026-05,Bim,133.0
+2026-05,Biology,109.0
+2026-05,Biotechnology,159.0
+2026-05,Blended Process,482.0
+2026-05,Blog Writing,81.0
+2026-05,Bom,107.0
+2026-05,Book Keeping,167.0
+2026-05,Boot,294.0
+2026-05,Bootstrap,407.0
+2026-05,Boq,102.0
+2026-05,Bpo,1458.0
+2026-05,Bpo Customer Service,410.0
+2026-05,Bpo Non Voice,123.0
+2026-05,Bpo Sales,131.0
+2026-05,Bpo Voice,476.0
+2026-05,Branch Banking,376.0
+2026-05,Branch Management,155.0
+2026-05,Branch Operations,128.0
+2026-05,Branding,175.0
+2026-05,Breakdown Maintenance,129.0
+2026-05,Broking,201.0
+2026-05,Budgeting,527.0
+2026-05,Building,125.0
+2026-05,Building Construction,89.0
+2026-05,Bulk Hiring,114.0
+2026-05,Business,91.0
+2026-05,Business Acumen,93.0
+2026-05,Business Administration,176.0
+2026-05,Business Analysis,981.0
+2026-05,Business Analyst,117.0
+2026-05,Business Analytics,124.0
+2026-05,Business Architecture,84.0
+2026-05,Business Development,2985.0
+2026-05,Business Development Associate,135.0
+2026-05,Business Development Executive,95.0
+2026-05,Business Development Management,354.0
+2026-05,Business Intelligence,352.0
+2026-05,Business Loan,205.0
+2026-05,Business Management,166.0
+2026-05,Business Operations,80.0
+2026-05,Business Planning,130.0
+2026-05,Business Process,163.0
+2026-05,Business Process Modeling,132.0
+2026-05,Business Process Outsourcing,176.0
+2026-05,Business Strategy,293.0
+2026-05,Business Transformation,113.0
+2026-05,C2C,157.0
+2026-05,Ca,133.0
+2026-05,Cad,355.0
+2026-05,Calendar Management,142.0
+2026-05,Call Center,97.0
+2026-05,Calling,615.0
+2026-05,Campaign Management,129.0
+2026-05,Campaigns,137.0
+2026-05,Canva,95.0
+2026-05,Capital Market,191.0
+2026-05,Career Counselling,117.0
+2026-05,Career Development,258.0
+2026-05,Casa,161.0
+2026-05,Casa Sales,85.0
+2026-05,Cash Applications,90.0
+2026-05,Cash Flow,104.0
+2026-05,Cash Management,96.0
+2026-05,Catia,152.0
+2026-05,Cca,156.0
+2026-05,Cce,96.0
+2026-05,Cd,231.0
+2026-05,Center,114.0
+2026-05,Certified,209.0
+2026-05,Change Management,644.0
+2026-05,Channel,212.0
+2026-05,Channel Management,90.0
+2026-05,Channel Sales,996.0
+2026-05,Chat,83.0
+2026-05,Chat Process,352.0
+2026-05,Chat Support,300.0
+2026-05,Chatbot,161.0
+2026-05,Chemical,121.0
+2026-05,Chemistry,142.0
+2026-05,Ci Cd Pipeline,134.0
+2026-05,Ci/Cd,929.0
+2026-05,Cisco,130.0
+2026-05,Civil,197.0
+2026-05,Civil Construction,99.0
+2026-05,Civil Engineering,262.0
+2026-05,Claims,259.0
+2026-05,Client,198.0
+2026-05,Client Acquisition,493.0
+2026-05,Client Coordination,117.0
+2026-05,Client Engagement,113.0
+2026-05,Client Handling,144.0
+2026-05,Client Interaction,160.0
+2026-05,Client Management,169.0
+2026-05,Client Onboarding,162.0
+2026-05,Client Relationship,191.0
+2026-05,Client Relationship Management,400.0
+2026-05,Client Retention,81.0
+2026-05,Client Servicing,288.0
+2025-01,Climate Data Analysis,210.0
+2025-02,Climate Data Analysis,186.0
+2025-03,Climate Data Analysis,202.0
+2025-04,Climate Data Analysis,216.0
+2025-05,Climate Data Analysis,238.0
+2025-06,Climate Data Analysis,176.0
+2025-07,Climate Data Analysis,208.0
+2025-08,Climate Data Analysis,228.0
+2025-09,Climate Data Analysis,202.0
+2025-10,Climate Data Analysis,192.0
+2025-11,Climate Data Analysis,201.0
+2025-12,Climate Data Analysis,231.0
+2026-05,Clinical Research,179.0
+2026-05,Clinical Trials,113.0
+2026-05,Cloud,791.0
+2026-05,Cloud Computing,227.0
+2026-05,Cloud Platform,82.0
+2026-05,Cloud Platforms,88.0
+2026-05,Cloud Security,191.0
+2026-05,Cloud Services,163.0
+2026-05,Cmdb,128.0
+2026-05,Cmmi,101.0
+2026-05,Cms,373.0
+2026-05,Cnc,116.0
+2026-05,Coaching,121.0
+2026-05,Cobol,124.0
+2026-05,Code Review,104.0
+2026-05,Coding,924.0
+2026-05,Cold,121.0
+2026-05,Cold Calling,775.0
+2026-05,Collection Management,98.0
+2026-05,Collections,303.0
+2026-05,Commercial,179.0
+2026-05,Commercial Sales,93.0
+2026-05,Commercial Vehicle,104.0
+2026-05,Commis,91.0
+2026-05,Communication,159.0
+2026-05,Communication Skills,3168.0
+2026-05,Company,120.0
+2026-05,Compensation,82.0
+2026-05,Compliance,1008.0
+2026-05,Compliance Management,164.0
+2026-05,Computer,152.0
+2026-05,Computer Operating,152.0
+2026-05,Computer Science,1055.0
+2026-05,Configuration,230.0
+2026-05,Configuration Management,165.0
+2026-05,Confluence,217.0
+2026-05,Construction,314.0
+2026-05,Construction Management,108.0
+2026-05,Consulting,1548.0
+2026-05,Container,110.0
+2026-05,Content,296.0
+2026-05,Content Creation,244.0
+2026-05,Content Development,202.0
+2026-05,Content Editing,420.0
+2026-05,Content Management,403.0
+2026-05,Content Management Systems,148.0
+2026-05,Content Marketing,94.0
+2026-05,Content Strategy,101.0
+2026-05,Content Writing,767.0
+2026-05,Continuous Improvement,519.0
+2026-05,Continuous Integration,1541.0
+2026-05,Contract Management,258.0
+2026-05,Contracts,136.0
+2026-05,Control,297.0
+2026-05,Convincing Power,538.0
+2026-05,Cooking,98.0
+2026-05,Coordination,403.0
+2026-05,Core,227.0
+2026-05,Core Java,149.0
+2026-05,Corel Draw,110.0
+2026-05,Corporate,389.0
+2026-05,Corporate Sales,410.0
+2026-05,Cost,132.0
+2026-05,Cost Estimation,108.0
+2026-05,Cost Reduction,94.0
+2026-05,Costing,251.0
+2026-05,Counselling,334.0
+2026-05,Cpc,136.0
+2026-05,Cpt,162.0
+2026-05,Creative Writing,337.0
+2026-05,Credit,121.0
+2026-05,Credit Analysis,120.0
+2026-05,Credit Card Sales,228.0
+2026-05,Credit Cards,141.0
+2026-05,Credit Risk,80.0
+2026-05,Credit Underwriting,119.0
+2026-05,Critical Care,108.0
+2026-05,Crm,531.0
+2026-05,Crm Management,93.0
+2026-05,Crm Software,84.0
+2026-05,Cross Sales,308.0
+2026-05,Cross Selling,423.0
+2026-05,Cs,82.0
+2026-05,Cse,168.0
+2026-05,Csr,137.0
+2026-05,Css,3740.0
+2026-05,Cucumber,131.0
+2026-05,Curriculum Development,97.0
+2026-05,Customer Acquisition,108.0
+2026-05,Customer Care,771.0
+2026-05,Customer Complaints,222.0
+2026-05,Customer Engagement,244.0
+2026-05,Customer Handling,328.0
+2026-05,Customer Management,122.0
+2026-05,Customer Queries,80.0
+2026-05,Customer Relationship,574.0
+2026-05,Customer Retention,125.0
+2026-05,Customer Satisfaction,443.0
+2026-05,Customer Service,4347.0
+2026-05,Customer Service Orientation,92.0
+2026-05,Customer Support,1537.0
+2026-05,Cyber Security,352.0
+2026-05,Dashboards,117.0
+2026-05,Data,934.0
+2026-05,Data Analysis,1627.0
+2026-05,Data Analytics,569.0
+2026-05,Data Architecture,143.0
+2026-05,Data Bricks,157.0
+2026-05,Data Collection,110.0
+2026-05,Data Dictionary,132.0
+2026-05,Data Engineering,446.0
+2026-05,Data Entry,243.0
+2026-05,Data Entry Operation,88.0
+2026-05,Data Governance,178.0
+2026-05,Data Integration,260.0
+2026-05,Data Integrity,96.0
+2026-05,Data Management,849.0
+2026-05,Data Migration,290.0
+2026-05,Data Mining,122.0
+2026-05,Data Modeling,888.0
+2026-05,Data Processing,225.0
+2026-05,Data Quality,296.0
+2026-05,Data Science,301.0
+2026-05,Data Security,123.0
+2026-05,Data Services,146.0
+2026-05,Data Structures,350.0
+2026-05,Data Validation,256.0
+2026-05,Data Visualization,247.0
+2026-05,Data Warehousing,577.0
+2026-05,Data Warehousing Concepts,86.0
+2026-05,Database,165.0
+2026-05,Database Administration,129.0
+2026-05,Database Design,200.0
+2026-05,Database Management,304.0
+2026-05,Db2,80.0
+2026-05,Dbms,614.0
+2026-05,Debt Collection,128.0
+2026-05,Debt Management,86.0
+2026-05,Debugging,1022.0
+2023-01,Deep Learning,4.0
+2023-02,Deep Learning,12.0
+2023-03,Deep Learning,6.0
+2023-04,Deep Learning,8.0
+2023-05,Deep Learning,6.0
+2023-06,Deep Learning,7.0
+2023-07,Deep Learning,12.0
+2023-08,Deep Learning,6.0
+2023-09,Deep Learning,13.0
+2023-10,Deep Learning,8.0
+2023-11,Deep Learning,10.0
+2023-12,Deep Learning,13.0
+2024-01,Deep Learning,10.0
+2024-02,Deep Learning,9.0
+2024-03,Deep Learning,10.0
+2024-04,Deep Learning,8.0
+2024-05,Deep Learning,10.0
+2024-06,Deep Learning,9.0
+2024-07,Deep Learning,16.0
+2024-08,Deep Learning,6.0
+2024-09,Deep Learning,7.0
+2024-10,Deep Learning,9.0
+2024-11,Deep Learning,6.0
+2024-12,Deep Learning,0.0
+2025-01,Deep Learning,0.0
+2025-02,Deep Learning,0.0
+2025-03,Deep Learning,0.0
+2025-04,Deep Learning,0.0
+2025-05,Deep Learning,0.0
+2025-06,Deep Learning,0.0
+2025-07,Deep Learning,0.0
+2025-08,Deep Learning,0.0
+2025-09,Deep Learning,0.0
+2025-10,Deep Learning,0.0
+2025-11,Deep Learning,0.0
+2025-12,Deep Learning,0.0
+2026-01,Deep Learning,0.0
+2026-02,Deep Learning,0.0
+2026-03,Deep Learning,0.0
+2026-04,Deep Learning,0.0
+2026-05,Deep Learning,206.0
+2026-05,Delivery,132.0
+2026-05,Delivery Management,114.0
+2026-05,Demand Planning,97.0
+2026-05,Denial Management,183.0
+2026-05,Denials,109.0
+2026-05,Deployment,182.0
+2026-05,Derivatives,90.0
+2026-05,Design,727.0
+2026-05,Design Development,104.0
+2026-05,Design Engineering,271.0
+2026-05,Design Patterns,241.0
+2026-05,Design Principles,604.0
+2026-05,Desk,114.0
+2026-05,Desktop,85.0
+2026-05,Desktop Support,117.0
+2026-05,Development,2898.0
+2026-05,Development Methodologies,723.0
+2026-05,Devops,906.0
+2026-05,Diagnostics,168.0
+2026-05,Dice,142.0
+2026-05,Digital,259.0
+2026-05,Digital Campaigns,84.0
+2026-05,Digital Marketing,1069.0
+2026-05,Digital Sales,97.0
+2026-05,Digital Transformation,159.0
+2026-05,Direct,239.0
+2026-05,Direct Marketing,169.0
+2026-05,Direct Sales,617.0
+2026-05,Direct Tax,99.0
+2026-05,Disaster Recovery,214.0
+2026-05,Dispatch,158.0
+2026-05,Distribution,361.0
+2026-05,Distribution System,110.0
+2026-05,Distributor Handling,109.0
+2026-05,Distributor Sales,120.0
+2026-05,Diversity And Inclusion,88.0
+2026-05,Django,248.0
+2026-05,Dm,85.0
+2026-05,Dnb,150.0
+2026-05,Dns,327.0
+2023-01,Docker,7.0
+2023-02,Docker,10.0
+2023-03,Docker,7.0
+2023-04,Docker,9.0
+2023-05,Docker,6.0
+2023-06,Docker,5.0
+2023-07,Docker,11.0
+2023-08,Docker,12.0
+2023-09,Docker,5.0
+2023-10,Docker,9.0
+2023-11,Docker,13.0
+2023-12,Docker,12.0
+2024-01,Docker,16.0
+2024-02,Docker,9.0
+2024-03,Docker,9.0
+2024-04,Docker,6.0
+2024-05,Docker,11.0
+2024-06,Docker,12.0
+2024-07,Docker,10.0
+2024-08,Docker,12.0
+2024-09,Docker,8.0
+2024-10,Docker,10.0
+2024-11,Docker,8.0
+2024-12,Docker,0.0
+2025-01,Docker,0.0
+2025-02,Docker,0.0
+2025-03,Docker,0.0
+2025-04,Docker,0.0
+2025-05,Docker,0.0
+2025-06,Docker,0.0
+2025-07,Docker,0.0
+2025-08,Docker,0.0
+2025-09,Docker,0.0
+2025-10,Docker,0.0
+2025-11,Docker,0.0
+2025-12,Docker,0.0
+2026-01,Docker,0.0
+2026-02,Docker,0.0
+2026-03,Docker,0.0
+2026-04,Docker,0.0
+2026-05,Docker,668.0
+2026-05,Documentation,1006.0
+2026-05,Domestic,95.0
+2026-05,Domestic Bpo,141.0
+2026-05,Domestic Voice Process,105.0
+2026-05,Dot,81.0
+2026-05,Drafting,128.0
+2026-05,Drawing,177.0
+2026-05,Drives,86.0
+2026-05,Drug Safety,115.0
+2026-05,Dsa,100.0
+2026-05,Due Diligence,239.0
+2026-05,E-Commerce,215.0
+2026-05,E-Learning,104.0
+2026-05,Ea,90.0
+2026-05,Ecc,132.0
+2026-05,Edi,84.0
+2026-05,Editing,320.0
+2026-05,Editorial,99.0
+2026-05,Edtech,173.0
+2026-05,Education,303.0
+2026-05,Education Counseling,182.0
+2026-05,Educational Sales,200.0
+2026-05,Ehs,135.0
+2026-05,Eigrp,117.0
+2026-05,Electrical Design,158.0
+2026-05,Electrical Engineering,359.0
+2026-05,Electrical Maintenance,221.0
+2026-05,Electricals,357.0
+2026-05,Electronics,168.0
+2026-05,Email,113.0
+2026-05,Email Marketing,226.0
+2026-05,Email Process,107.0
+2026-05,Email Support,251.0
+2026-05,Embedded Systems,138.0
+2026-05,Emerging Technologies,92.0
+2026-05,Employee Engagement,341.0
+2026-05,Employee Relations,301.0
+2026-05,End,174.0
+2026-05,End To End Recruitment,370.0
+2026-05,End User,88.0
+2025-01,Energy Modeling,210.0
+2025-02,Energy Modeling,186.0
+2025-03,Energy Modeling,202.0
+2025-04,Energy Modeling,216.0
+2025-05,Energy Modeling,238.0
+2025-06,Energy Modeling,176.0
+2025-07,Energy Modeling,208.0
+2025-08,Energy Modeling,228.0
+2025-09,Energy Modeling,202.0
+2025-10,Energy Modeling,192.0
+2025-11,Energy Modeling,201.0
+2025-12,Energy Modeling,231.0
+2026-05,Engineering,830.0
+2026-05,Engineering Design,93.0
+2026-05,English,1919.0
+2026-05,English Language,177.0
+2026-05,Enterprise Applications,127.0
+2026-05,Enterprise Architecture,139.0
+2026-05,Enterprise Sales,132.0
+2026-05,Entity Framework,147.0
+2026-05,Epc,87.0
+2026-05,Equipment,187.0
+2026-05,Equity,142.0
+2026-05,Erp,1297.0
+2026-05,Esi,84.0
+2026-05,Estate,180.0
+2026-05,Estimation,104.0
+2025-01,Ethereum,150.0
+2025-02,Ethereum,139.0
+2025-03,Ethereum,156.0
+2025-04,Ethereum,130.0
+2025-05,Ethereum,143.0
+2025-06,Ethereum,115.0
+2025-07,Ethereum,153.0
+2025-08,Ethereum,135.0
+2025-09,Ethereum,112.0
+2025-10,Ethereum,146.0
+2025-11,Ethereum,156.0
+2025-12,Ethereum,148.0
+2026-01,Ethereum,0.0
+2026-02,Ethereum,0.0
+2026-03,Ethereum,0.0
+2026-04,Ethereum,0.0
+2026-05,Ethereum,6.0
+2026-05,Ethernet,89.0
+2026-05,Etl,704.0
+2026-05,Etl Process,140.0
+2026-05,Event Management,195.0
+2026-05,Excel,1160.0
+2026-05,Execution,126.0
+2026-05,Executive Support,97.0
+2026-05,Export Documentation,87.0
+2026-05,External Audit,105.0
+2026-05,Fabrication,305.0
+2026-05,Facility Management,154.0
+2026-05,Fea,85.0
+2026-05,Fi,117.0
+2026-05,Fico,318.0
+2026-05,Field,378.0
+2026-05,Field Marketing,238.0
+2026-05,Field Sales,1092.0
+2026-05,Field Sales Management,82.0
+2026-05,Field Service,110.0
+2026-05,Figma,156.0
+2026-05,Filing,82.0
+2026-05,Finalisation,94.0
+2026-05,Finance,1279.0
+2026-05,Finance And Accounts,100.0
+2026-05,Financial Accounting,154.0
+2026-05,Financial Analysis,674.0
+2026-05,Financial Management,157.0
+2026-05,Financial Modelling,88.0
+2026-05,Financial Planning,318.0
+2026-05,Financial Planning And Analysis,93.0
+2026-05,Financial Reporting,432.0
+2026-05,Financial Services,531.0
+2026-05,Financial Statements,241.0
+2026-05,Fire Safety,81.0
+2026-05,Firewall,95.0
+2026-05,Firmware,105.0
+2026-05,Fixed Assets,105.0
+2026-05,Fixing Appointments,89.0
+2026-05,Flask,146.0
+2026-05,Fluent,114.0
+2026-05,Fluent English,387.0
+2026-05,Fmcg,174.0
+2026-05,Fmcg Sales,150.0
+2026-05,Focus,332.0
+2026-05,Follow Ups,111.0
+2026-05,Food Production,105.0
+2026-05,Food Safety,117.0
+2026-05,Forecasting,564.0
+2026-05,Forex,165.0
+2026-05,Framework,100.0
+2026-05,Freight Forwarding,115.0
+2026-05,Fresher,254.0
+2026-05,Fresher Hiring,107.0
+2026-05,Freshers,80.0
+2026-05,Front,161.0
+2026-05,Front Desk,310.0
+2026-05,Front End,464.0
+2026-05,Front Office,283.0
+2026-05,Front Office Management,135.0
+2026-05,Front Office Operations,110.0
+2026-05,Frontend Development,120.0
+2026-05,Full Stack,609.0
+2026-05,Fullstack Development,204.0
+2026-05,Functional,187.0
+2026-05,Functional Testing,135.0
+2026-05,Gaap,120.0
+2026-05,Gap Analysis,266.0
+2026-05,Gcp,820.0
+2026-05,General,284.0
+2026-05,General Accounting,220.0
+2026-05,General Insurance,135.0
+2026-05,General Insurance Sales,82.0
+2026-05,General Ledger,136.0
+2026-05,General Ledger Accounting,111.0
+2026-05,General Medicine,89.0
+2026-05,General Trade,126.0
+2026-05,Generation,426.0
+2026-05,Generative Ai,177.0
+2026-05,German,88.0
+2026-05,Git,942.0
+2026-05,Github,485.0
+2026-05,Gl,117.0
+2026-05,Global,81.0
+2026-05,Global Sourcing,83.0
+2026-05,Gmp,85.0
+2026-05,Gnm,86.0
+2026-05,Golang,210.0
+2026-05,Google,152.0
+2026-05,Google Ads,153.0
+2026-05,Google Adwords,164.0
+2026-05,Google Analytics,263.0
+2026-05,Google Sheets,98.0
+2026-05,Governance,83.0
+2026-05,Graphic Designing,293.0
+2026-05,Graphics,268.0
+2026-05,Graphql,83.0
+2026-05,Grc,99.0
+2026-05,Grievance Handling,132.0
+2026-05,Grn,107.0
+2026-05,Gst,631.0
+2026-05,Gst Compliance,97.0
+2026-05,Gst Filing,139.0
+2026-05,Gst Return,154.0
+2026-05,Guest Handling,157.0
+2026-05,Guest Relations,129.0
+2026-05,Guest Service,145.0
+2026-05,Gujarati,116.0
+2023-01,Hadoop,9.0
+2023-02,Hadoop,8.0
+2023-03,Hadoop,8.0
+2023-04,Hadoop,13.0
+2023-05,Hadoop,5.0
+2023-06,Hadoop,9.0
+2023-07,Hadoop,7.0
+2023-08,Hadoop,13.0
+2023-09,Hadoop,10.0
+2023-10,Hadoop,14.0
+2023-11,Hadoop,6.0
+2023-12,Hadoop,12.0
+2024-01,Hadoop,13.0
+2024-02,Hadoop,10.0
+2024-03,Hadoop,7.0
+2024-04,Hadoop,6.0
+2024-05,Hadoop,8.0
+2024-06,Hadoop,11.0
+2024-07,Hadoop,9.0
+2024-08,Hadoop,15.0
+2024-09,Hadoop,8.0
+2024-10,Hadoop,10.0
+2024-11,Hadoop,10.0
+2024-12,Hadoop,0.0
+2025-01,Hadoop,0.0
+2025-02,Hadoop,0.0
+2025-03,Hadoop,0.0
+2025-04,Hadoop,0.0
+2025-05,Hadoop,0.0
+2025-06,Hadoop,0.0
+2025-07,Hadoop,0.0
+2025-08,Hadoop,0.0
+2025-09,Hadoop,0.0
+2025-10,Hadoop,0.0
+2025-11,Hadoop,0.0
+2025-12,Hadoop,0.0
+2026-01,Hadoop,0.0
+2026-02,Hadoop,0.0
+2026-03,Hadoop,0.0
+2026-04,Hadoop,0.0
+2026-05,Hadoop,326.0
+2026-05,Handling,464.0
+2026-05,Handling Customer Queries,90.0
+2026-05,Hardware,104.0
+2026-05,Hcm,146.0
+2026-05,Head Hunting,162.0
+2026-05,Health,85.0
+2026-05,Health Care Services,95.0
+2026-05,Health Insurance,302.0
+2026-05,Health Insurance Sales,88.0
+2026-05,Healthcare,821.0
+2026-05,Healthcare Bpo,98.0
+2026-05,Heat Exchangers,81.0
+2026-05,Heavy Fabrication,116.0
+2026-05,Hibernate,889.0
+2026-05,High Rise Building,111.0
+2026-05,Hindi,943.0
+2026-05,Hipaa,126.0
+2026-05,Hiring,813.0
+2026-05,Hive,583.0
+2026-05,Hl,180.0
+2026-05,Hlookup,122.0
+2026-05,Hmi,123.0
+2026-05,Hni,169.0
+2026-05,Home Loans,326.0
+2026-05,Hospital,117.0
+2026-05,Hospitality,541.0
+2026-05,Hotel Management,185.0
+2026-05,Housekeeping,284.0
+2026-05,Housekeeping Management,118.0
+2026-05,Housing,97.0
+2026-05,Housing Finance,208.0
+2026-05,Housing Loan,157.0
+2026-05,Hr,372.0
+2026-05,Hr Administration,149.0
+2026-05,Hr Generalist Activities,955.0
+2026-05,Hr Operations,391.0
+2026-05,Hr Policies,87.0
+2026-05,Hris,101.0
+2026-05,Hrsd,684.0
+2026-05,Html,1420.0
+2026-05,Http,134.0
+2026-05,Human Resource Management,341.0
+2026-05,Hvac,201.0
+2026-05,Hydraulics,111.0
+2026-05,Iatf,121.0
+2026-05,Icd,148.0
+2026-05,Ifrs,138.0
+2026-05,Illustrator,317.0
+2026-05,Image Processing,183.0
+2026-05,Implementation,91.0
+2026-05,Import,149.0
+2026-05,Inbound,374.0
+2026-05,Inbound Calls,365.0
+2026-05,Inbound Customer Service,237.0
+2026-05,Inbound Process,455.0
+2026-05,Inbound Sales,255.0
+2026-05,Inbound Voice Process,314.0
+2026-05,Incident Management,358.0
+2026-05,Income Tax,155.0
+2026-05,Industrial,145.0
+2026-05,Industrial Safety,113.0
+2026-05,Industrial Sales,205.0
+2026-05,Informatica,165.0
+2026-05,Information Security,285.0
+2026-05,Information Technology,434.0
+2026-05,Infrastructure,175.0
+2026-05,Inside Sales,745.0
+2026-05,Inspection,208.0
+2026-05,Installation,187.0
+2026-05,Institutional Sales,133.0
+2026-05,Instructional Design,80.0
+2026-05,Instrumentation,207.0
+2026-05,Instruments,80.0
+2026-05,Insurance,547.0
+2026-05,Insurance Sales,658.0
+2026-05,Integration,263.0
+2026-05,Integration Testing,105.0
+2026-05,Intelligence,94.0
+2026-05,Interior Designing,177.0
+2026-05,Interiors,103.0
+2026-05,Internal Audit,264.0
+2026-05,Internal Control,162.0
+2026-05,International,343.0
+2026-05,International Bpo,888.0
+2026-05,International Business Development,95.0
+2026-05,International Call Center,740.0
+2026-05,International Calling,167.0
+2026-05,International Chat Process,149.0
+2026-05,International Clients,98.0
+2026-05,International Non Voice,96.0
+2026-05,International Process,223.0
+2026-05,International Sales,402.0
+2026-05,International Voice,465.0
+2026-05,International Voice Process,1031.0
+2026-05,Interpersonal,130.0
+2026-05,Interview Coordination,96.0
+2026-05,Interviewing,147.0
+2026-05,Inventory,216.0
+2026-05,Inventory Control,215.0
+2026-05,Inventory Management,464.0
+2026-05,Investment,100.0
+2026-05,Investment Banking,364.0
+2026-05,Investment Management,128.0
+2026-05,Investment Products,163.0
+2026-05,Invoice Processing,271.0
+2026-05,Invoicing,180.0
+2026-05,Ios,130.0
+2026-05,Ip,114.0
+2026-05,Iso,387.0
+2026-05,Issue Resolution,102.0
+2026-05,It,88.0
+2026-05,It Recruitment,469.0
+2026-05,It Sales,231.0
+2026-05,It Service Desk,90.0
+2026-05,It Services,434.0
+2026-05,It Staffing,82.0
+2026-05,It Support,105.0
+2026-05,Iti,98.0
+2026-05,Itil,250.0
+2026-05,Itom,91.0
+2026-05,Itsm,253.0
+2026-05,J2Ee,277.0
+2023-01,Java,10.0
+2023-02,Java,10.0
+2023-03,Java,8.0
+2023-04,Java,12.0
+2023-05,Java,3.0
+2023-06,Java,4.0
+2023-07,Java,14.0
+2023-08,Java,9.0
+2023-09,Java,9.0
+2023-10,Java,10.0
+2023-11,Java,10.0
+2023-12,Java,9.0
+2024-01,Java,13.0
+2024-02,Java,5.0
+2024-03,Java,7.0
+2024-04,Java,5.0
+2024-05,Java,10.0
+2024-06,Java,8.0
+2024-07,Java,7.0
+2024-08,Java,10.0
+2024-09,Java,11.0
+2024-10,Java,3.0
+2024-11,Java,2.0
+2024-12,Java,0.0
+2025-01,Java,0.0
+2025-02,Java,0.0
+2025-03,Java,0.0
+2025-04,Java,0.0
+2025-05,Java,0.0
+2025-06,Java,0.0
+2025-07,Java,0.0
+2025-08,Java,0.0
+2025-09,Java,0.0
+2025-10,Java,0.0
+2025-11,Java,0.0
+2025-12,Java,0.0
+2026-01,Java,0.0
+2026-02,Java,0.0
+2026-03,Java,0.0
+2026-04,Java,0.0
+2026-05,Java,3615.0
+2026-05,Java Development,254.0
+2026-05,Java Fullstack,152.0
+2026-05,JavaScript,2648.0
+2026-05,Jcl,97.0
+2026-05,Jdbc,121.0
+2026-05,Jenkins,406.0
+2026-05,Jira,534.0
+2026-05,Jmeter,88.0
+2026-05,Job Description,121.0
+2026-05,Job Posting,94.0
+2026-05,Joining Formalities,689.0
+2026-05,Journal Entries,343.0
+2026-05,Journalism,92.0
+2026-05,Jquery,515.0
+2026-05,Json,260.0
+2026-05,Jsp,532.0
+2026-05,Junit,119.0
+2026-05,Kafka,363.0
+2026-05,Kaizen,86.0
+2026-05,Kannada,203.0
+2026-05,Key Account Management,230.0
+2026-05,Key Accounts,107.0
+2026-05,Kotlin,141.0
+2026-05,Kpi,138.0
+2026-05,Kpo,113.0
+2023-01,Kubernetes,11.0
+2023-02,Kubernetes,6.0
+2023-03,Kubernetes,8.0
+2023-04,Kubernetes,9.0
+2023-05,Kubernetes,4.0
+2023-06,Kubernetes,9.0
+2023-07,Kubernetes,10.0
+2023-08,Kubernetes,11.0
+2023-09,Kubernetes,8.0
+2023-10,Kubernetes,15.0
+2023-11,Kubernetes,9.0
+2023-12,Kubernetes,8.0
+2024-01,Kubernetes,11.0
+2024-02,Kubernetes,14.0
+2024-03,Kubernetes,13.0
+2024-04,Kubernetes,10.0
+2024-05,Kubernetes,11.0
+2024-06,Kubernetes,9.0
+2024-07,Kubernetes,9.0
+2024-08,Kubernetes,14.0
+2024-09,Kubernetes,17.0
+2024-10,Kubernetes,5.0
+2024-11,Kubernetes,5.0
+2024-12,Kubernetes,0.0
+2025-01,Kubernetes,0.0
+2025-02,Kubernetes,0.0
+2025-03,Kubernetes,0.0
+2025-04,Kubernetes,0.0
+2025-05,Kubernetes,0.0
+2025-06,Kubernetes,0.0
+2025-07,Kubernetes,0.0
+2025-08,Kubernetes,0.0
+2025-09,Kubernetes,0.0
+2025-10,Kubernetes,0.0
+2025-11,Kubernetes,0.0
+2025-12,Kubernetes,0.0
+2026-01,Kubernetes,0.0
+2026-02,Kubernetes,0.0
+2026-03,Kubernetes,0.0
+2026-04,Kubernetes,0.0
+2026-05,Kubernetes,1336.0
+2026-05,Kyc,186.0
+2026-05,Lab,88.0
+2026-05,Labour Laws,149.0
+2026-05,Lan,103.0
+2026-05,Languages,141.0
+2026-05,Lap,198.0
+2026-05,Lateral Hiring,87.0
+2026-05,Law,102.0
+2026-05,Lead Generation,1608.0
+2026-05,Leadership,514.0
+2026-05,Lean,84.0
+2026-05,Learning And Development,90.0
+2026-05,Ledger,125.0
+2026-05,Legal,299.0
+2026-05,Legal Compliance,109.0
+2026-05,Legal Documentation,109.0
+2026-05,Lesson Planning,83.0
+2026-05,Licensing,81.0
+2026-05,Life Insurance,598.0
+2026-05,Life Sciences,197.0
+2025-01,Linear Algebra,137.0
+2025-02,Linear Algebra,116.0
+2025-03,Linear Algebra,156.0
+2025-04,Linear Algebra,129.0
+2025-05,Linear Algebra,156.0
+2025-06,Linear Algebra,138.0
+2025-07,Linear Algebra,140.0
+2025-08,Linear Algebra,141.0
+2025-09,Linear Algebra,121.0
+2025-10,Linear Algebra,131.0
+2025-11,Linear Algebra,136.0
+2025-12,Linear Algebra,165.0
+2026-01,Linear Algebra,0.0
+2026-02,Linear Algebra,0.0
+2026-03,Linear Algebra,0.0
+2026-04,Linear Algebra,0.0
+2026-05,Linear Algebra,7.0
+2026-05,Linux,1074.0
+2026-05,Litigation,105.0
+2026-05,Llm,92.0
+2026-05,Lms,110.0
+2026-05,Load Balancing,110.0
+2026-05,Load Runner,101.0
+2026-05,Loan Against Property,196.0
+2026-05,Loan Sales,215.0
+2026-05,Loans,315.0
+2026-05,Logistics,448.0
+2026-05,Logistics Management,203.0
+2026-05,Logistics Operations,163.0
+2026-05,Machine,196.0
+2023-01,Machine Learning,6.0
+2023-02,Machine Learning,9.0
+2023-03,Machine Learning,6.0
+2023-04,Machine Learning,10.0
+2023-05,Machine Learning,5.0
+2023-06,Machine Learning,8.0
+2023-07,Machine Learning,7.0
+2023-08,Machine Learning,8.0
+2023-09,Machine Learning,9.0
+2023-10,Machine Learning,12.0
+2023-11,Machine Learning,13.0
+2023-12,Machine Learning,8.0
+2024-01,Machine Learning,11.0
+2024-02,Machine Learning,10.0
+2024-03,Machine Learning,10.0
+2024-04,Machine Learning,11.0
+2024-05,Machine Learning,9.0
+2024-06,Machine Learning,7.0
+2024-07,Machine Learning,18.0
+2024-08,Machine Learning,13.0
+2024-09,Machine Learning,11.0
+2024-10,Machine Learning,5.0
+2024-11,Machine Learning,7.0
+2024-12,Machine Learning,0.0
+2025-01,Machine Learning,0.0
+2025-02,Machine Learning,0.0
+2025-03,Machine Learning,0.0
+2025-04,Machine Learning,0.0
+2025-05,Machine Learning,0.0
+2025-06,Machine Learning,0.0
+2025-07,Machine Learning,0.0
+2025-08,Machine Learning,0.0
+2025-09,Machine Learning,0.0
+2025-10,Machine Learning,0.0
+2025-11,Machine Learning,0.0
+2025-12,Machine Learning,0.0
+2026-01,Machine Learning,0.0
+2026-02,Machine Learning,0.0
+2026-03,Machine Learning,0.0
+2026-04,Machine Learning,0.0
+2026-05,Machine Learning,1147.0
+2026-05,Machine Learning Algorithms,95.0
+2026-05,Machining,109.0
+2026-05,Macros,204.0
+2026-05,Mainframes,124.0
+2026-05,Maintenance,462.0
+2026-05,Maintenance Engineering,127.0
+2026-05,Malayalam,242.0
+2026-05,Management,4330.0
+2026-05,Management Consulting,202.0
+2026-05,Management Systems,108.0
+2026-05,Manager Internal Audit,120.0
+2026-05,Manager Quality Assurance,398.0
+2026-05,Manager Quality Control,141.0
+2026-05,Manager Technology,560.0
+2026-05,Manpower Handling,121.0
+2026-05,Manual,93.0
+2026-05,Manual Testing,490.0
+2026-05,Manufacturing,264.0
+2026-05,Manufacturing Engineering,82.0
+2026-05,Marathi,227.0
+2026-05,Market Analysis,132.0
+2026-05,Market Intelligence,161.0
+2026-05,Market Research,890.0
+2026-05,Marketing,1980.0
+2026-05,Marketing Campaigns,124.0
+2026-05,Marketing Management,136.0
+2026-05,Marketing Operations,89.0
+2026-05,Marketing Strategy,161.0
+2026-05,Master Data,148.0
+2026-05,Master Data Management,89.0
+2026-05,Material Management,95.0
+2026-05,Material Planning,92.0
+2026-05,Materials,162.0
+2026-05,Mathematics,266.0
+2026-05,Matlab,160.0
+2026-05,Maven,247.0
+2026-05,Mdg,91.0
+2026-05,Mdm,89.0
+2026-05,Mechanical,313.0
+2026-05,Mechanical Design,131.0
+2026-05,Mechanical Engineering,341.0
+2026-05,Mechanical Maintenance,97.0
+2026-05,Media,250.0
+2026-05,Medical,304.0
+2026-05,Medical Billing,161.0
+2026-05,Medical Coding,301.0
+2026-05,Medical Devices,116.0
+2026-05,Medical Insurance,125.0
+2026-05,Medical Sales,90.0
+2026-05,Medical Writing,145.0
+2026-05,Medicine,170.0
+2026-05,Mentoring,122.0
+2026-05,Mep,152.0
+2026-05,Merchandising,131.0
+2026-05,Metadata,104.0
+2026-05,Microbiology,147.0
+2026-05,Microservices,1353.0
+2026-05,Microsoft,470.0
+2026-05,Microsoft Azure,999.0
+2026-05,Microsoft Dynamics,148.0
+2026-05,Microsoft Office Suite,110.0
+2026-05,Microsoft Windows,118.0
+2026-05,Middleware,202.0
+2026-05,Mis,641.0
+2026-05,Mis Reporting,265.0
+2026-05,Mm,194.0
+2026-05,Mobile Application Development,87.0
+2026-05,Modeling,146.0
+2026-05,Moderation,368.0
+2026-05,Mongodb,274.0
+2026-05,Monitoring,629.0
+2026-05,Mortgage,121.0
+2026-05,Mortgage Loans,165.0
+2026-05,Motion Graphics,80.0
+2026-05,Motor Insurance,85.0
+2026-05,Mr,80.0
+2026-05,Ms Dynamics Crm,107.0
+2026-05,Ms Office,635.0
+2026-05,Ms Project,170.0
+2026-05,Ms Sql,95.0
+2026-05,Multithreading,134.0
+2026-05,Mutual Funds,222.0
+2026-05,Mutual Funds Sales,94.0
+2026-05,Mvc,237.0
+2026-05,Mysql,579.0
+2023-01,NLP,10.0
+2023-02,NLP,8.0
+2023-03,NLP,10.0
+2023-04,NLP,9.0
+2023-05,NLP,3.0
+2023-06,NLP,13.0
+2023-07,NLP,15.0
+2023-08,NLP,7.0
+2023-09,NLP,15.0
+2023-10,NLP,7.0
+2023-11,NLP,17.0
+2023-12,NLP,11.0
+2024-01,NLP,11.0
+2024-02,NLP,8.0
+2024-03,NLP,6.0
+2024-04,NLP,10.0
+2024-05,NLP,11.0
+2024-06,NLP,9.0
+2024-07,NLP,10.0
+2024-08,NLP,10.0
+2024-09,NLP,7.0
+2024-10,NLP,7.0
+2024-11,NLP,10.0
+2024-12,NLP,0.0
+2025-01,NLP,0.0
+2025-02,NLP,0.0
+2025-03,NLP,0.0
+2025-04,NLP,0.0
+2025-05,NLP,0.0
+2025-06,NLP,0.0
+2025-07,NLP,0.0
+2025-08,NLP,0.0
+2025-09,NLP,0.0
+2025-10,NLP,0.0
+2025-11,NLP,0.0
+2025-12,NLP,0.0
+2026-01,NLP,0.0
+2026-02,NLP,0.0
+2026-03,NLP,0.0
+2026-04,NLP,0.0
+2026-05,NLP,441.0
+2026-05,Nbfc,146.0
+2026-05,Negotiation,608.0
+2026-05,Net,717.0
+2026-05,Net Core,430.0
+2026-05,Net Fullstack,105.0
+2026-05,Network Engineering,145.0
+2026-05,Network Security,267.0
+2026-05,Networking,1806.0
+2026-05,Networking Protocols,114.0
+2026-05,New Business,129.0
+2026-05,New Business Development,101.0
+2026-05,New Client Acquisition,297.0
+2026-05,New Product Development,143.0
+2026-05,News Writing,100.0
+2026-05,Nextjs,81.0
+2026-05,Nism,111.0
+2023-01,Node.js,9.0
+2023-02,Node.js,11.0
+2023-03,Node.js,3.0
+2023-04,Node.js,9.0
+2023-05,Node.js,5.0
+2023-06,Node.js,6.0
+2023-07,Node.js,9.0
+2023-08,Node.js,11.0
+2023-09,Node.js,12.0
+2023-10,Node.js,11.0
+2023-11,Node.js,11.0
+2023-12,Node.js,15.0
+2024-01,Node.js,12.0
+2024-02,Node.js,8.0
+2024-03,Node.js,14.0
+2024-04,Node.js,12.0
+2024-05,Node.js,9.0
+2024-06,Node.js,6.0
+2024-07,Node.js,9.0
+2024-08,Node.js,15.0
+2024-09,Node.js,9.0
+2024-10,Node.js,11.0
+2024-11,Node.js,9.0
+2024-12,Node.js,0.0
+2025-01,Node.js,0.0
+2025-02,Node.js,0.0
+2025-03,Node.js,0.0
+2025-04,Node.js,0.0
+2025-05,Node.js,0.0
+2025-06,Node.js,0.0
+2025-07,Node.js,0.0
+2025-08,Node.js,0.0
+2025-09,Node.js,0.0
+2025-10,Node.js,0.0
+2025-11,Node.js,0.0
+2025-12,Node.js,0.0
+2026-01,Node.js,0.0
+2026-02,Node.js,0.0
+2026-03,Node.js,0.0
+2026-04,Node.js,0.0
+2026-05,Node.js,528.0
+2026-05,Non It Recruitment,203.0
+2026-05,Non Voice,190.0
+2026-05,Non Voice Process,671.0
+2026-05,Nosql,230.0
+2026-05,Npd,115.0
+2023-01,Numpy,6.0
+2023-02,Numpy,6.0
+2023-03,Numpy,9.0
+2023-04,Numpy,10.0
+2023-05,Numpy,4.0
+2023-06,Numpy,6.0
+2023-07,Numpy,10.0
+2023-08,Numpy,10.0
+2023-09,Numpy,14.0
+2023-10,Numpy,9.0
+2023-11,Numpy,10.0
+2023-12,Numpy,13.0
+2024-01,Numpy,9.0
+2024-02,Numpy,11.0
+2024-03,Numpy,12.0
+2024-04,Numpy,11.0
+2024-05,Numpy,15.0
+2024-06,Numpy,10.0
+2024-07,Numpy,7.0
+2024-08,Numpy,12.0
+2024-09,Numpy,12.0
+2024-10,Numpy,9.0
+2024-11,Numpy,7.0
+2024-12,Numpy,0.0
+2025-01,Numpy,0.0
+2025-02,Numpy,0.0
+2025-03,Numpy,0.0
+2025-04,Numpy,0.0
+2025-05,Numpy,0.0
+2025-06,Numpy,0.0
+2025-07,Numpy,0.0
+2025-08,Numpy,0.0
+2025-09,Numpy,0.0
+2025-10,Numpy,0.0
+2025-11,Numpy,0.0
+2025-12,Numpy,0.0
+2026-01,Numpy,0.0
+2026-02,Numpy,0.0
+2026-03,Numpy,0.0
+2026-04,Numpy,0.0
+2026-05,Numpy,59.0
+2026-05,Nursing,227.0
+2026-05,Nutrition,88.0
+2026-05,Odata,161.0
+2026-05,Office,426.0
+2026-05,Office Administration,243.0
+2026-05,Office Coordination,117.0
+2026-05,Office Management,94.0
+2026-05,Onboarding,209.0
+2026-05,Oops,205.0
+2026-05,Open Source,167.0
+2026-05,Openshift,100.0
+2026-05,Operating,164.0
+2026-05,Operational Excellence,321.0
+2026-05,Operational Support,106.0
+2026-05,Operations,1807.0
+2026-05,Operations Management,676.0
+2026-05,Oracle,1895.0
+2026-05,Oracle Cloud,108.0
+2026-05,Oracle Fusion,123.0
+2026-05,Orchestration,120.0
+2026-05,Order Fulfillment,109.0
+2026-05,Order Management,236.0
+2026-05,Order Processing,102.0
+2026-05,Order To Cash,179.0
+2026-05,Orientation,82.0
+2026-05,Outbound,339.0
+2026-05,Outbound Calling,320.0
+2026-05,Outbound Process,271.0
+2026-05,Outbound Sales,336.0
+2026-05,Owasp,96.0
+2026-05,P2P,91.0
+2026-05,Paas,87.0
+2026-05,Packaging,307.0
+2026-05,Pan,120.0
+2023-01,Pandas,6.0
+2023-02,Pandas,8.0
+2023-03,Pandas,8.0
+2023-04,Pandas,8.0
+2023-05,Pandas,6.0
+2023-06,Pandas,6.0
+2023-07,Pandas,13.0
+2023-08,Pandas,8.0
+2023-09,Pandas,8.0
+2023-10,Pandas,19.0
+2023-11,Pandas,7.0
+2023-12,Pandas,11.0
+2024-01,Pandas,9.0
+2024-02,Pandas,10.0
+2024-03,Pandas,16.0
+2024-04,Pandas,7.0
+2024-05,Pandas,7.0
+2024-06,Pandas,10.0
+2024-07,Pandas,15.0
+2024-08,Pandas,9.0
+2024-09,Pandas,12.0
+2024-10,Pandas,5.0
+2024-11,Pandas,8.0
+2024-12,Pandas,0.0
+2025-01,Pandas,0.0
+2025-02,Pandas,0.0
+2025-03,Pandas,0.0
+2025-04,Pandas,0.0
+2025-05,Pandas,0.0
+2025-06,Pandas,0.0
+2025-07,Pandas,0.0
+2025-08,Pandas,0.0
+2025-09,Pandas,0.0
+2025-10,Pandas,0.0
+2025-11,Pandas,0.0
+2025-12,Pandas,0.0
+2026-01,Pandas,0.0
+2026-02,Pandas,0.0
+2026-03,Pandas,0.0
+2026-04,Pandas,0.0
+2026-05,Pandas,79.0
+2026-05,Patient Care,204.0
+2026-05,Pay,86.0
+2026-05,Payables,141.0
+2026-05,Payments,227.0
+2026-05,Payroll,521.0
+2026-05,Payroll Management,142.0
+2026-05,Payroll Processing,186.0
+2026-05,Pdf,86.0
+2026-05,Pega,81.0
+2026-05,Pega Prpc,98.0
+2026-05,Penetration,161.0
+2026-05,Penetration Testing,87.0
+2026-05,Performance,85.0
+2026-05,Performance Management,385.0
+2026-05,Performance Marketing,106.0
+2026-05,Performance Testing,335.0
+2026-05,Performance Tuning,780.0
+2026-05,Perl,128.0
+2026-05,Personal Loans,178.0
+2026-05,Pf,130.0
+2026-05,Pgt,81.0
+2026-05,Pharma,288.0
+2026-05,Pharma Selling,102.0
+2026-05,Pharmaceutical,379.0
+2026-05,Pharmaceutical Sales,95.0
+2026-05,Pharmacovigilance,135.0
+2026-05,Pharmacy,156.0
+2026-05,Photoshop,498.0
+2026-05,Php,181.0
+2026-05,Pivot Table,149.0
+2026-05,Planning,456.0
+2026-05,Plant,114.0
+2026-05,Plant Maintenance,108.0
+2026-05,Plant Operations,126.0
+2026-05,Plastic,92.0
+2026-05,Plc,291.0
+2026-05,Plm,155.0
+2026-05,Plsql,391.0
+2026-05,Plumbing,97.0
+2026-05,Pmp,233.0
+2026-05,Portfolio Management,259.0
+2026-05,Postgresql,578.0
+2023-01,Power BI,9.0
+2023-02,Power BI,8.0
+2023-03,Power BI,5.0
+2023-04,Power BI,9.0
+2023-05,Power BI,9.0
+2023-06,Power BI,12.0
+2023-07,Power BI,10.0
+2023-08,Power BI,5.0
+2023-09,Power BI,10.0
+2023-10,Power BI,19.0
+2023-11,Power BI,5.0
+2023-12,Power BI,10.0
+2024-01,Power BI,14.0
+2024-02,Power BI,6.0
+2024-03,Power BI,8.0
+2024-04,Power BI,6.0
+2024-05,Power BI,11.0
+2024-06,Power BI,10.0
+2024-07,Power BI,7.0
+2024-08,Power BI,12.0
+2024-09,Power BI,8.0
+2024-10,Power BI,9.0
+2024-11,Power BI,6.0
+2024-12,Power BI,0.0
+2025-01,Power BI,0.0
+2025-02,Power BI,0.0
+2025-03,Power BI,0.0
+2025-04,Power BI,0.0
+2025-05,Power BI,0.0
+2025-06,Power BI,0.0
+2025-07,Power BI,0.0
+2025-08,Power BI,0.0
+2025-09,Power BI,0.0
+2025-10,Power BI,0.0
+2025-11,Power BI,0.0
+2025-12,Power BI,0.0
+2026-01,Power BI,0.0
+2026-02,Power BI,0.0
+2026-03,Power BI,0.0
+2026-04,Power BI,0.0
+2026-05,Power BI,762.0
+2026-05,Powerpoint,149.0
+2026-05,Powershell,237.0
+2026-05,Ppap,93.0
+2026-05,Ppc,242.0
+2026-05,Presales,341.0
+2026-05,Presentation,92.0
+2026-05,Pressure Handling,159.0
+2026-05,Preventive Maintenance,227.0
+2026-05,Pricing,82.0
+2026-05,Primary Sales,93.0
+2026-05,Printing,133.0
+2026-05,Problem Management,218.0
+2026-05,Problem Solving,462.0
+2026-05,Process,759.0
+2026-05,Process Automation,117.0
+2026-05,Process Design,98.0
+2026-05,Process Improvement,534.0
+2026-05,Process Management,81.0
+2026-05,Process Optimization,105.0
+2026-05,Process Training,111.0
+2026-05,Processing,126.0
+2026-05,Procure To Pay,141.0
+2026-05,Procurement,949.0
+2026-05,Procurement Management,83.0
+2026-05,Procurement Operations,103.0
+2026-05,Product Design,238.0
+2026-05,Product Development,130.0
+2026-05,Product Engineering,131.0
+2026-05,Product Management,539.0
+2026-05,Product Marketing,82.0
+2026-05,Product Quality,116.0
+2026-05,Product Sales,135.0
+2026-05,Product Strategy,94.0
+2026-05,Production,947.0
+2026-05,Production Engineering,137.0
+2026-05,Production Management,140.0
+2026-05,Production Operations,92.0
+2026-05,Production Planning,267.0
+2026-05,Production Planning Control,82.0
+2026-05,Production Support,219.0
+2026-05,Professional Services,104.0
+2026-05,Professor Activities,82.0
+2026-05,Program,154.0
+2026-05,Program Management,547.0
+2026-05,Programming,290.0
+2026-05,Project,533.0
+2026-05,Project Coordination,136.0
+2026-05,Project Delivery,176.0
+2026-05,Project Documentation,98.0
+2026-05,Project Engineering,102.0
+2026-05,Project Execution,169.0
+2026-05,Project Management,4913.0
+2026-05,Project Planning,267.0
+2026-05,Project Sales,150.0
+2026-05,Project Scheduling,126.0
+2026-05,Promotions,85.0
+2026-05,Proof Reading,194.0
+2026-05,Property,101.0
+2026-05,Property Sales,167.0
+2026-05,Protocols,103.0
+2026-05,Prototype,96.0
+2026-05,Prototyping,90.0
+2026-05,Public Relations,88.0
+2026-05,Publishing,132.0
+2026-05,Pumps,94.0
+2026-05,Purchase,463.0
+2026-05,Purchase Management,139.0
+2026-05,Purchase Order,169.0
+2026-05,Purchase Planning,88.0
+2023-01,PyTorch,5.0
+2023-02,PyTorch,13.0
+2023-03,PyTorch,5.0
+2023-04,PyTorch,9.0
+2023-05,PyTorch,7.0
+2023-06,PyTorch,16.0
+2023-07,PyTorch,13.0
+2023-08,PyTorch,14.0
+2023-09,PyTorch,8.0
+2023-10,PyTorch,7.0
+2023-11,PyTorch,9.0
+2023-12,PyTorch,12.0
+2024-01,PyTorch,12.0
+2024-02,PyTorch,7.0
+2024-03,PyTorch,11.0
+2024-04,PyTorch,3.0
+2024-05,PyTorch,12.0
+2024-06,PyTorch,8.0
+2024-07,PyTorch,10.0
+2024-08,PyTorch,10.0
+2024-09,PyTorch,10.0
+2024-10,PyTorch,6.0
+2024-11,PyTorch,6.0
+2024-12,PyTorch,0.0
+2025-01,PyTorch,142.0
+2025-02,PyTorch,120.0
+2025-03,PyTorch,132.0
+2025-04,PyTorch,137.0
+2025-05,PyTorch,138.0
+2025-06,PyTorch,134.0
+2025-07,PyTorch,152.0
+2025-08,PyTorch,140.0
+2025-09,PyTorch,110.0
+2025-10,PyTorch,148.0
+2025-11,PyTorch,140.0
+2025-12,PyTorch,144.0
+2026-01,PyTorch,0.0
+2026-02,PyTorch,0.0
+2026-03,PyTorch,0.0
+2026-04,PyTorch,0.0
+2026-05,PyTorch,182.0
+2026-05,Pyspark,534.0
+2020-01,Python,135680.0
+2020-02,Python,139784.0
+2020-03,Python,143781.0
+2020-04,Python,147829.0
+2020-05,Python,151928.0
+2020-06,Python,131778.0
+2020-07,Python,0.0
+2020-08,Python,0.0
+2020-09,Python,0.0
+2020-10,Python,0.0
+2020-11,Python,0.0
+2020-12,Python,0.0
+2021-01,Python,192470.0
+2021-02,Python,197795.0
+2021-03,Python,203086.0
+2021-04,Python,208443.0
+2021-05,Python,152221.0
+2021-06,Python,0.0
+2021-07,Python,0.0
+2021-08,Python,0.0
+2021-09,Python,0.0
+2021-10,Python,0.0
+2021-11,Python,0.0
+2021-12,Python,0.0
+2022-01,Python,101525.5
+2022-02,Python,104940.5
+2022-03,Python,108196.5
+2022-04,Python,111501.5
+2022-05,Python,114855.5
+2022-06,Python,118062.5
+2022-07,Python,0.0
+2022-08,Python,0.0
+2022-09,Python,0.0
+2022-10,Python,0.0
+2022-11,Python,0.0
+2022-12,Python,0.0
+2023-01,Python,125409.0
+2023-02,Python,129179.0
+2023-03,Python,132997.0
+2023-04,Python,8.0
+2023-05,Python,6.0
+2023-06,Python,8.0
+2023-07,Python,18.0
+2023-08,Python,7.0
+2023-09,Python,11.0
+2023-10,Python,14.0
+2023-11,Python,9.0
+2023-12,Python,13.0
+2024-01,Python,132050.5
+2024-02,Python,135065.0
+2024-03,Python,138099.0
+2024-04,Python,7.0
+2024-05,Python,11.0
+2024-06,Python,9.0
+2024-07,Python,10.0
+2024-08,Python,8.0
+2024-09,Python,8.0
+2024-10,Python,9.0
+2024-11,Python,8.0
+2024-12,Python,0.0
+2025-01,Python,162.0
+2025-02,Python,134.0
+2025-03,Python,140.0
+2025-04,Python,117.0
+2025-05,Python,142.0
+2025-06,Python,130.0
+2025-07,Python,140.0
+2025-08,Python,143.0
+2025-09,Python,139.0
+2025-10,Python,140.0
+2025-11,Python,126.0
+2025-12,Python,144.0
+2026-01,Python,0.0
+2026-02,Python,0.0
+2026-03,Python,0.0
+2026-04,Python,0.0
+2026-05,Python,5131.0
+2026-05,Python Development,141.0
+2026-05,Qa,114.0
+2026-05,Qa/Qc,83.0
+2026-05,Qc,199.0
+2025-01,Qiskit,137.0
+2025-02,Qiskit,130.0
+2025-03,Qiskit,157.0
+2025-04,Qiskit,137.0
+2025-05,Qiskit,163.0
+2025-06,Qiskit,121.0
+2025-07,Qiskit,131.0
+2025-08,Qiskit,126.0
+2025-09,Qiskit,128.0
+2025-10,Qiskit,152.0
+2025-11,Qiskit,138.0
+2025-12,Qiskit,162.0
+2026-05,Qms,145.0
+2026-05,Quality,386.0
+2026-05,Quality Analysis,124.0
+2026-05,Quality Assurance,628.0
+2026-05,Quality Audit,252.0
+2026-05,Quality Check,107.0
+2026-05,Quality Control,625.0
+2026-05,Quality Engineering,114.0
+2026-05,Quality Inspection,99.0
+2026-05,Quality Management,208.0
+2026-05,Quality Standards,192.0
+2025-01,Quantum Algorithms,130.0
+2025-02,Quantum Algorithms,150.0
+2025-03,Quantum Algorithms,135.0
+2025-04,Quantum Algorithms,140.0
+2025-05,Quantum Algorithms,153.0
+2025-06,Quantum Algorithms,119.0
+2025-07,Quantum Algorithms,139.0
+2025-08,Quantum Algorithms,143.0
+2025-09,Quantum Algorithms,143.0
+2025-10,Quantum Algorithms,135.0
+2025-11,Quantum Algorithms,142.0
+2025-12,Quantum Algorithms,161.0
+2026-05,Query,103.0
+2026-05,R2R,86.0
+2026-05,Radiology,103.0
+2026-05,Rcm,180.0
+2026-05,Rdbms,191.0
+2023-01,React,8.0
+2023-02,React,11.0
+2023-03,React,8.0
+2023-04,React,13.0
+2023-05,React,8.0
+2023-06,React,9.0
+2023-07,React,15.0
+2023-08,React,10.0
+2023-09,React,12.0
+2023-10,React,11.0
+2023-11,React,6.0
+2023-12,React,12.0
+2024-01,React,11.0
+2024-02,React,6.0
+2024-03,React,14.0
+2024-04,React,10.0
+2024-05,React,14.0
+2024-06,React,9.0
+2024-07,React,15.0
+2024-08,React,11.0
+2024-09,React,10.0
+2024-10,React,10.0
+2024-11,React,9.0
+2024-12,React,0.0
+2025-01,React,0.0
+2025-02,React,0.0
+2025-03,React,0.0
+2025-04,React,0.0
+2025-05,React,0.0
+2025-06,React,0.0
+2025-07,React,0.0
+2025-08,React,0.0
+2025-09,React,0.0
+2025-10,React,0.0
+2025-11,React,0.0
+2025-12,React,0.0
+2026-01,React,0.0
+2026-02,React,0.0
+2026-03,React,0.0
+2026-04,React,0.0
+2026-05,React,1284.0
+2026-05,React Native,126.0
+2026-05,Real Estate,323.0
+2026-05,Real Estate Marketing,84.0
+2026-05,Real Estate Sales,300.0
+2026-05,Reception,95.0
+2026-05,Receptionist Activities,215.0
+2026-05,Reconciliation,434.0
+2026-05,Record To Report,277.0
+2026-05,Recovery,142.0
+2026-05,Recruitment,1572.0
+2026-05,Recruitment Management,91.0
+2026-05,Redux,272.0
+2026-05,Regional,99.0
+2026-05,Regional Sales,112.0
+2026-05,Regression Testing,395.0
+2026-05,Regulations,117.0
+2026-05,Regulatory,235.0
+2026-05,Regulatory Compliance,205.0
+2026-05,Relationship,959.0
+2026-05,Relationship Building,452.0
+2026-05,Relationship Management,831.0
+2026-05,Release Management,91.0
+2026-05,Repair,162.0
+2026-05,Reporting,405.0
+2026-05,Requirement Gathering,100.0
+2026-05,Research,627.0
+2026-05,Residential,119.0
+2026-05,Residential Sales,123.0
+2026-05,Resource,225.0
+2026-05,Resource Allocation,91.0
+2026-05,Resource Management,185.0
+2026-05,Rest,1854.0
+2026-05,Rest Api,85.0
+2026-05,Restaurant,80.0
+2026-05,Retail,591.0
+2026-05,Retail Banking,117.0
+2026-05,Retail Operations,87.0
+2026-05,Retail Sales,552.0
+2026-05,Revenue,131.0
+2026-05,Revenue Cycle Management,220.0
+2026-05,Revenue Generation,388.0
+2026-05,Revenue Recognition,94.0
+2026-05,Revit,188.0
+2026-05,Rfp,99.0
+2026-05,Rfps,88.0
+2026-05,Risk,202.0
+2026-05,Risk Assessment,404.0
+2026-05,Risk Management,999.0
+2026-05,Root Cause Analysis,691.0
+2026-05,Routing,119.0
+2026-05,Rpa,161.0
+2026-05,Rtos,102.0
+2025-01,Rust,154.0
+2025-02,Rust,134.0
+2025-03,Rust,134.0
+2025-04,Rust,126.0
+2025-05,Rust,140.0
+2025-06,Rust,135.0
+2025-07,Rust,142.0
+2025-08,Rust,144.0
+2025-09,Rust,130.0
+2025-10,Rust,126.0
+2025-11,Rust,130.0
+2025-12,Rust,151.0
+2026-01,Rust,0.0
+2026-02,Rust,0.0
+2026-03,Rust,0.0
+2026-04,Rust,0.0
+2026-05,Rust,18.0
+2023-01,SQL,11.0
+2023-02,SQL,10.0
+2023-03,SQL,3.0
+2023-04,SQL,11.0
+2023-05,SQL,5.0
+2023-06,SQL,9.0
+2023-07,SQL,16.0
+2023-08,SQL,8.0
+2023-09,SQL,13.0
+2023-10,SQL,12.0
+2023-11,SQL,13.0
+2023-12,SQL,14.0
+2024-01,SQL,13.0
+2024-02,SQL,7.0
+2024-03,SQL,13.0
+2024-04,SQL,7.0
+2024-05,SQL,12.0
+2024-06,SQL,13.0
+2024-07,SQL,7.0
+2024-08,SQL,9.0
+2024-09,SQL,5.0
+2024-10,SQL,7.0
+2024-11,SQL,8.0
+2024-12,SQL,0.0
+2025-01,SQL,0.0
+2025-02,SQL,0.0
+2025-03,SQL,0.0
+2025-04,SQL,0.0
+2025-05,SQL,0.0
+2025-06,SQL,0.0
+2025-07,SQL,0.0
+2025-08,SQL,0.0
+2025-09,SQL,0.0
+2025-10,SQL,0.0
+2025-11,SQL,0.0
+2025-12,SQL,0.0
+2026-01,SQL,0.0
+2026-02,SQL,0.0
+2026-03,SQL,0.0
+2026-04,SQL,0.0
+2026-05,SQL,3557.0
+2026-05,Saas,241.0
+2026-05,Saas Sales,137.0
+2026-05,Safety,170.0
+2026-05,Safety Management,89.0
+2026-05,Safety Training,131.0
+2026-05,Sales,7933.0
+2026-05,Sales Activities,91.0
+2026-05,Sales And Marketing,691.0
+2026-05,Sales Coordination,159.0
+2026-05,Sales Development,120.0
+2026-05,Sales Engineering,102.0
+2026-05,Sales Executive,124.0
+2026-05,Sales Executive Activities,491.0
+2026-05,Sales Lead Generation,150.0
+2026-05,Sales Life Insurance,86.0
+2026-05,Sales Management,777.0
+2026-05,Sales Operations,246.0
+2026-05,Sales Planning,165.0
+2026-05,Sales Process,309.0
+2026-05,Sales Promotion,121.0
+2026-05,Sales Strategy,342.0
+2026-05,Sales Support,137.0
+2026-05,Sales Training,100.0
+2026-05,Salesforce,557.0
+2026-05,Salesforce Lightning,156.0
+2026-05,San,118.0
+2026-05,Sap,4592.0
+2026-05,Sap Abap,592.0
+2026-05,Sap Abap Development,339.0
+2026-05,Sap Basis,101.0
+2026-05,Sap Basis Administration,97.0
+2026-05,Sap Bi,157.0
+2026-05,Sap Bw,103.0
+2026-05,Sap Ewm,121.0
+2026-05,Sap Fi,287.0
+2026-05,Sap Fico,356.0
+2026-05,Sap Fico Implementation,94.0
+2026-05,Sap Fiori,236.0
+2026-05,Sap Grc,125.0
+2026-05,Sap Hana,760.0
+2026-05,Sap Ibp,83.0
+2026-05,Sap Implementation,251.0
+2026-05,Sap Master Data Governance,87.0
+2026-05,Sap Mm,364.0
+2026-05,Sap Mm Materials Management,85.0
+2026-05,Sap Module,87.0
+2026-05,Sap Pp,124.0
+2026-05,Sap Presales,94.0
+2026-05,Sap Project Management,81.0
+2026-05,Sap S Hana,479.0
+2026-05,Sap S/4Hana,90.0
+2026-05,Sap Sd,440.0
+2026-05,Sap Testing,129.0
+2026-05,Sap Upgrade,141.0
+2026-05,Saps,165.0
+2026-05,Sas,265.0
+2026-05,Scada,105.0
+2026-05,Scala,546.0
+2026-05,Scalability,95.0
+2026-05,Scheduling,385.0
+2026-05,Schema,134.0
+2026-05,Science,124.0
+2023-01,Scikit-learn,7.0
+2023-02,Scikit-learn,8.0
+2023-03,Scikit-learn,10.0
+2023-04,Scikit-learn,11.0
+2023-05,Scikit-learn,6.0
+2023-06,Scikit-learn,9.0
+2023-07,Scikit-learn,14.0
+2023-08,Scikit-learn,7.0
+2023-09,Scikit-learn,7.0
+2023-10,Scikit-learn,16.0
+2023-11,Scikit-learn,19.0
+2023-12,Scikit-learn,13.0
+2024-01,Scikit-learn,8.0
+2024-02,Scikit-learn,11.0
+2024-03,Scikit-learn,9.0
+2024-04,Scikit-learn,6.0
+2024-05,Scikit-learn,9.0
+2024-06,Scikit-learn,11.0
+2024-07,Scikit-learn,7.0
+2024-08,Scikit-learn,11.0
+2024-09,Scikit-learn,8.0
+2024-10,Scikit-learn,6.0
+2024-11,Scikit-learn,6.0
+2024-12,Scikit-learn,0.0
+2025-01,Scikit-learn,0.0
+2025-02,Scikit-learn,0.0
+2025-03,Scikit-learn,0.0
+2025-04,Scikit-learn,0.0
+2025-05,Scikit-learn,0.0
+2025-06,Scikit-learn,0.0
+2025-07,Scikit-learn,0.0
+2025-08,Scikit-learn,0.0
+2025-09,Scikit-learn,0.0
+2025-10,Scikit-learn,0.0
+2025-11,Scikit-learn,0.0
+2025-12,Scikit-learn,0.0
+2026-01,Scikit-learn,0.0
+2026-02,Scikit-learn,0.0
+2026-03,Scikit-learn,0.0
+2026-04,Scikit-learn,0.0
+2026-05,Scikit-learn,91.0
+2026-05,Scm,135.0
+2026-05,Screening,951.0
+2026-05,Scripting,157.0
+2026-05,Scripting Languages,94.0
+2026-05,Scrum,500.0
+2026-05,Sd,137.0
+2026-05,Sdlc,254.0
+2026-05,Search Engine Optimization,86.0
+2026-05,Secondary Sales,119.0
+2026-05,Secretarial Activities,162.0
+2026-05,Secured Loan,148.0
+2026-05,Security,232.0
+2026-05,Security Management,110.0
+2026-05,Security Operations,138.0
+2026-05,Selenium,633.0
+2026-05,Selling,199.0
+2026-05,Sem,95.0
+2026-05,Semi Voice,182.0
+2026-05,Semiconductor,82.0
+2026-05,Senior,800.0
+2026-05,Senior Analyst,84.0
+2026-05,Senior Executive,137.0
+2026-05,Senior Management,92.0
+2026-05,Seo,508.0
+2026-05,Seo Writing,120.0
+2026-05,Server,114.0
+2026-05,Service Delivery,244.0
+2026-05,Service Desk,164.0
+2026-05,Service Desk Management,81.0
+2026-05,Service Engineering,92.0
+2026-05,Service Level,86.0
+2026-05,Service Management,267.0
+2026-05,Service Operations,454.0
+2026-05,Service Sales,87.0
+2026-05,Servicenow,482.0
+2026-05,Servicenow Development,108.0
+2026-05,Servicing,188.0
+2026-05,Sfdc,144.0
+2026-05,Sharepoint,154.0
+2026-05,Sheet,92.0
+2026-05,Sheet Metal,215.0
+2026-05,Shell Scripting,273.0
+2026-05,Shortlisting,100.0
+2026-05,Showroom Sales,80.0
+2026-05,Siem,128.0
+2026-05,Simulation,191.0
+2026-05,Sip,104.0
+2026-05,Site,224.0
+2026-05,Site Engineering,140.0
+2026-05,Site Execution,206.0
+2026-05,Site Management,106.0
+2026-05,Site Supervision,161.0
+2026-05,Six Sigma,158.0
+2026-05,Sketchup,214.0
+2026-05,Sme,137.0
+2026-05,Snowflake,389.0
+2026-05,Soa,231.0
+2026-05,Soap,142.0
+2026-05,Soc,236.0
+2026-05,Social Media,574.0
+2026-05,Social Media Marketing,249.0
+2026-05,Software,540.0
+2026-05,Software Design,233.0
+2026-05,Software Development,1446.0
+2026-05,Software Development Life Cycle,583.0
+2026-05,Software Development Methodologies,142.0
+2026-05,Software Engineering,235.0
+2026-05,Software Sales,105.0
+2026-05,Software Testing,1792.0
+2026-05,Solar,82.0
+2026-05,Solid Works,199.0
+2025-01,Solidity,156.0
+2025-02,Solidity,141.0
+2025-03,Solidity,152.0
+2025-04,Solidity,128.0
+2025-05,Solidity,145.0
+2025-06,Solidity,128.0
+2025-07,Solidity,149.0
+2025-08,Solidity,127.0
+2025-09,Solidity,120.0
+2025-10,Solidity,120.0
+2025-11,Solidity,150.0
+2025-12,Solidity,153.0
+2026-01,Solidity,0.0
+2026-02,Solidity,0.0
+2026-03,Solidity,0.0
+2026-04,Solidity,0.0
+2026-05,Solidity,3.0
+2026-05,Solution Architecture,95.0
+2026-05,Solution Design,135.0
+2026-05,Solving Queries,257.0
+2026-05,Sop,88.0
+2026-05,Soql,114.0
+2026-05,Sourcing,577.0
+2026-05,Sourcing Profiles,94.0
+2026-05,Sox,85.0
+2023-01,Spark,6.0
+2023-02,Spark,7.0
+2023-03,Spark,4.0
+2023-04,Spark,14.0
+2023-05,Spark,3.0
+2023-06,Spark,10.0
+2023-07,Spark,11.0
+2023-08,Spark,11.0
+2023-09,Spark,10.0
+2023-10,Spark,16.0
+2023-11,Spark,12.0
+2023-12,Spark,11.0
+2024-01,Spark,15.0
+2024-02,Spark,12.0
+2024-03,Spark,11.0
+2024-04,Spark,8.0
+2024-05,Spark,8.0
+2024-06,Spark,8.0
+2024-07,Spark,9.0
+2024-08,Spark,11.0
+2024-09,Spark,7.0
+2024-10,Spark,11.0
+2024-11,Spark,6.0
+2024-12,Spark,0.0
+2025-01,Spark,0.0
+2025-02,Spark,0.0
+2025-03,Spark,0.0
+2025-04,Spark,0.0
+2025-05,Spark,0.0
+2025-06,Spark,0.0
+2025-07,Spark,0.0
+2025-08,Spark,0.0
+2025-09,Spark,0.0
+2025-10,Spark,0.0
+2025-11,Spark,0.0
+2025-12,Spark,0.0
+2026-01,Spark,0.0
+2026-02,Spark,0.0
+2026-03,Spark,0.0
+2026-04,Spark,0.0
+2026-05,Spark,371.0
+2026-05,Spoken English,178.0
+2026-05,Sports,137.0
+2026-05,Sports Writing,171.0
+2026-05,Spring,766.0
+2026-05,Spring Boot,1293.0
+2026-05,Spring Mvc,95.0
+2026-05,Sql Development,117.0
+2026-05,Sql Queries,227.0
+2026-05,Sql Server,373.0
+2026-05,Ssas,82.0
+2026-05,Ssis,127.0
+2026-05,Stack,221.0
+2026-05,Staffing,303.0
+2026-05,Stakeholder Engagement,106.0
+2026-05,Stakeholder Management,791.0
+2026-05,Standard Operating Procedures,115.0
+2026-05,Statistics,126.0
+2026-05,Statutory Audit,134.0
+2026-05,Statutory Compliance,298.0
+2026-05,Stock Management,91.0
+2026-05,Store Keeping,116.0
+2026-05,Store Management,184.0
+2026-05,Store Operations,195.0
+2026-05,Stored Procedures,120.0
+2026-05,Stores,177.0
+2026-05,Strategic Planning,273.0
+2026-05,Strategic Sourcing,238.0
+2026-05,Stress Analysis,390.0
+2026-05,Structural Design,88.0
+2026-05,Student Counseling,144.0
+2026-05,Successfactors,97.0
+2026-05,Supervision,188.0
+2026-05,Supervisor,205.0
+2026-05,Supply,128.0
+2026-05,Supply Chain,847.0
+2026-05,Supply Chain Management,266.0
+2026-05,Supply Chain Operations,88.0
+2026-05,Supply Planning,115.0
+2026-05,Surgery,91.0
+2026-05,Swift,94.0
+2026-05,Switching,322.0
+2026-05,System,225.0
+2026-05,System Administration,104.0
+2026-05,System Architecture,179.0
+2026-05,System Design,280.0
+2026-05,System Integration,176.0
+2023-01,Tableau,5.0
+2023-02,Tableau,13.0
+2023-03,Tableau,7.0
+2023-04,Tableau,6.0
+2023-05,Tableau,8.0
+2023-06,Tableau,5.0
+2023-07,Tableau,9.0
+2023-08,Tableau,8.0
+2023-09,Tableau,8.0
+2023-10,Tableau,6.0
+2023-11,Tableau,11.0
+2023-12,Tableau,11.0
+2024-01,Tableau,11.0
+2024-02,Tableau,8.0
+2024-03,Tableau,14.0
+2024-04,Tableau,9.0
+2024-05,Tableau,13.0
+2024-06,Tableau,11.0
+2024-07,Tableau,6.0
+2024-08,Tableau,7.0
+2024-09,Tableau,9.0
+2024-10,Tableau,7.0
+2024-11,Tableau,9.0
+2024-12,Tableau,0.0
+2025-01,Tableau,0.0
+2025-02,Tableau,0.0
+2025-03,Tableau,0.0
+2025-04,Tableau,0.0
+2025-05,Tableau,0.0
+2025-06,Tableau,0.0
+2025-07,Tableau,0.0
+2025-08,Tableau,0.0
+2025-09,Tableau,0.0
+2025-10,Tableau,0.0
+2025-11,Tableau,0.0
+2025-12,Tableau,0.0
+2026-01,Tableau,0.0
+2026-02,Tableau,0.0
+2026-03,Tableau,0.0
+2026-04,Tableau,0.0
+2026-05,Tableau,339.0
+2026-05,Talent Acquisition,754.0
+2026-05,Talent Development,97.0
+2026-05,Talent Management,188.0
+2026-05,Tally,482.0
+2026-05,Tally Erp,351.0
+2026-05,Tally Prime,80.0
+2026-05,Tamil,241.0
+2026-05,Target Achievement,404.0
+2026-05,Taxation,522.0
+2026-05,Tcp,216.0
+2026-05,Tds,730.0
+2026-05,Tds Calculation,82.0
+2026-05,Tds Filing,88.0
+2026-05,Tds Return,110.0
+2026-05,Teaching,750.0
+2026-05,Teaching English,104.0
+2026-05,Teamcenter,107.0
+2026-05,Technical,462.0
+2026-05,Technical Analysis,88.0
+2026-05,Technical Architecture,93.0
+2026-05,Technical Documentation,135.0
+2026-05,Technical Leadership,509.0
+2026-05,Technical Recruitment,122.0
+2026-05,Technical Sales,155.0
+2026-05,Technical Support,743.0
+2026-05,Technical Voice Process,85.0
+2026-05,Technical Writing,115.0
+2026-05,Techno Functional,130.0
+2026-05,Technology,113.0
+2026-05,Telecalling,617.0
+2026-05,Telecom,190.0
+2026-05,Telecom Sales,100.0
+2026-05,Telemarketing,126.0
+2026-05,Telesales,923.0
+2026-05,Telugu,183.0
+2026-05,Tendering,143.0
+2023-01,TensorFlow,6.0
+2023-02,TensorFlow,11.0
+2023-03,TensorFlow,10.0
+2023-04,TensorFlow,10.0
+2023-05,TensorFlow,11.0
+2023-06,TensorFlow,7.0
+2023-07,TensorFlow,8.0
+2023-08,TensorFlow,8.0
+2023-09,TensorFlow,9.0
+2023-10,TensorFlow,15.0
+2023-11,TensorFlow,8.0
+2023-12,TensorFlow,14.0
+2024-01,TensorFlow,15.0
+2024-02,TensorFlow,8.0
+2024-03,TensorFlow,17.0
+2024-04,TensorFlow,10.0
+2024-05,TensorFlow,11.0
+2024-06,TensorFlow,4.0
+2024-07,TensorFlow,8.0
+2024-08,TensorFlow,12.0
+2024-09,TensorFlow,8.0
+2024-10,TensorFlow,13.0
+2024-11,TensorFlow,10.0
+2024-12,TensorFlow,0.0
+2025-01,TensorFlow,148.0
+2025-02,TensorFlow,130.0
+2025-03,TensorFlow,134.0
+2025-04,TensorFlow,142.0
+2025-05,TensorFlow,140.0
+2025-06,TensorFlow,146.0
+2025-07,TensorFlow,136.0
+2025-08,TensorFlow,153.0
+2025-09,TensorFlow,129.0
+2025-10,TensorFlow,140.0
+2025-11,TensorFlow,142.0
+2025-12,TensorFlow,150.0
+2026-01,TensorFlow,0.0
+2026-02,TensorFlow,0.0
+2026-03,TensorFlow,0.0
+2026-04,TensorFlow,0.0
+2026-05,TensorFlow,243.0
+2026-05,Terraform,320.0
+2026-05,Territory Sales,229.0
+2026-05,Test Automation Framework,86.0
+2026-05,Test Cases,522.0
+2026-05,Test Engineering,88.0
+2026-05,Test Management,145.0
+2026-05,Test Planning,88.0
+2026-05,Test Scripts,137.0
+2026-05,Testing,126.0
+2026-05,Testing Tools,166.0
+2026-05,Tfs,84.0
+2026-05,Tgt,152.0
+2026-05,Ticketing,161.0
+2026-05,Tied Channel,80.0
+2026-05,Time Management,323.0
+2026-05,Togaf,112.0
+2026-05,Tool Design,96.0
+2026-05,Tools,165.0
+2026-05,Trade,257.0
+2026-05,Trade Finance,153.0
+2026-05,Trading,138.0
+2026-05,Training,1585.0
+2026-05,Training And Development,278.0
+2026-05,Training Management,132.0
+2026-05,Transformers,201.0
+2026-05,Transportation,126.0
+2026-05,Travel,140.0
+2026-05,Travel Arrangements,97.0
+2026-05,Travel Management,125.0
+2026-05,Travel Sales,120.0
+2026-05,Troubleshooting,2255.0
+2026-05,Tutoring,143.0
+2026-05,Typescript,387.0
+2026-05,Typing,127.0
+2026-05,Typing Speed,100.0
+2026-05,Ui,187.0
+2026-05,Ui Development,185.0
+2026-05,Ui/Ux,118.0
+2026-05,Underwriting,166.0
+2026-05,Unit Testing,412.0
+2026-05,Unix,394.0
+2026-05,Ups,94.0
+2026-05,Upsell,83.0
+2026-05,Upselling,273.0
+2026-05,Us Calling,115.0
+2026-05,Us Gaap,187.0
+2026-05,Us Healthcare,449.0
+2026-05,Us It Recruitment,197.0
+2026-05,Us Process,502.0
+2026-05,Us Recruitment,193.0
+2026-05,Us Sales,260.0
+2026-05,Us Staffing,101.0
+2026-05,Us Voice Process,285.0
+2026-05,Usage,452.0
+2026-05,User Acceptance Testing,120.0
+2026-05,User Interface Designing,133.0
+2026-05,User Stories,112.0
+2026-05,Utility Maintenance,100.0
+2026-05,Ux,247.0
+2026-05,Variance Analysis,284.0
+2026-05,Vba,92.0
+2026-05,Vendor,180.0
+2026-05,Vendor Development,171.0
+2026-05,Vendor Management,579.0
+2026-05,Vendor Negotiation,93.0
+2026-05,Vendor Payments,83.0
+2026-05,Verbal Communication,279.0
+2026-05,Version Control,507.0
+2026-05,Video Editing,289.0
+2026-05,Visualforce,263.0
+2026-05,Vlookup,205.0
+2026-05,Vmc,91.0
+2026-05,Vmware,259.0
+2026-05,Voice,580.0
+2026-05,Voice Process,1584.0
+2026-05,Voice Support,468.0
+2026-05,Vpn,106.0
+2026-05,Vue.Js,93.0
+2026-05,Wan,131.0
+2026-05,Warehouse,258.0
+2026-05,Warehouse Management,229.0
+2026-05,Warehouse Operations,178.0
+2026-05,Wealth Management,200.0
+2026-05,Web Api,186.0
+2026-05,Web Application,176.0
+2026-05,Web Application Framework,116.0
+2026-05,Web Development,256.0
+2026-05,Web Services,1325.0
+2026-05,Web Technologies,331.0
+2026-05,Welding,165.0
+2026-05,Wellness,218.0
+2026-05,Wfm,96.0
+2026-05,Windows,286.0
+2026-05,Word,91.0
+2026-05,Wordpress,369.0
+2026-05,Workday,264.0
+2026-05,Workday Functional,86.0
+2026-05,Workflow,318.0
+2026-05,Workforce Management,132.0
+2026-05,Writing,243.0
+2026-05,Written Communication,173.0
+2026-05,Xml,317.0
