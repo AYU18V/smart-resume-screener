@@ -1,20 +1,4 @@
-# FINAL CODEX PROMPT
 
-Analyze my entire Smart Resume Screener project before writing anything.
-
-Read every folder, backend, frontend, APIs, services, models, utilities, configuration files, package files, requirements, environment variables, and project structure.
-
-Then completely rewrite my README.md.
-
-**IMPORTANT:**
-
-* Do NOT assume features.
-* Document ONLY what is actually implemented.
-* If a feature is partially implemented, explain it professionally.
-* Remove outdated or incorrect information.
-* Make the README suitable for a company technical evaluation.
-
----
 
 # Project
 
@@ -262,43 +246,10 @@ If multiple scoring methods exist, explain each one.
 
 ---
 
-# API Documentation
 
-Generate a complete API table.
 
-Include:
 
-* Method
-* Endpoint
-* Request
-* Response
-* Description
 
-Document every implemented API.
-
----
-
-# Database
-
-If MongoDB exists:
-
-Document:
-
-* Collections
-* Fields
-* Relationships
-
-If no database exists:
-
-Clearly mention the current storage mechanism and recommend a future schema.
-
----
-
-# Folder Structure
-
-Automatically generate the actual folder tree from the repository.
-
----
 
 # Environment Variables
 
