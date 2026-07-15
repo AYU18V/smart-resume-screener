@@ -1,88 +1,426 @@
-# Skill Demand Forecasting
+# FINAL CODEX PROMPT
 
-Computational workforce intelligence and skill demand forecasting project with a FastAPI backend, Streamlit dashboard utilities, and a Vite React frontend.
+Analyze my entire Smart Resume Screener project before writing anything.
 
-## Repository Structure
+Read every folder, backend, frontend, APIs, services, models, utilities, configuration files, package files, requirements, environment variables, and project structure.
 
-```text
-backend/
-  api/                  FastAPI entry point
-  analysis/             Dataset and skill analysis scripts
-  dashboard/            Streamlit dashboard
-  data/                 Small demo/reference CSV datasets
-  models/               Training code and empty artifact folders
-  nlp/                  Skill extraction code
-  preprocessing/        Dataset preparation pipelines
-  services/             Backend business logic
-frontend/skill-dashboard/
-  src/                  React application source
-  package.json          Frontend dependencies and scripts
-```
+Then completely rewrite my README.md.
 
-## Setup
+**IMPORTANT:**
 
-```bash
-cd backend
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
-```
+* Do NOT assume features.
+* Document ONLY what is actually implemented.
+* If a feature is partially implemented, explain it professionally.
+* Remove outdated or incorrect information.
+* Make the README suitable for a company technical evaluation.
 
-### Frontend
+---
 
-```bash
-cd frontend/skill-dashboard
-npm install
-```
+# Project
 
-Copy `.env.example` to `.env` and fill values for your local machine. For normal local development:
+Smart Resume Screener
 
-```env
-VITE_API_BASE_URL=http://127.0.0.1:8000
-BACKEND_CORS_ORIGINS=http://localhost:5173
-MODEL_DIR=backend/models
-HF_MODEL_DIR=backend/models/huggingface
-FORECAST_MODEL_PATH=backend/models/forecasting/modelnew.h5
-GEMINI_API_KEY=
-GEMINI_MODEL=gemini-2.5-flash
-GEMINI_API_TIMEOUT=30
-```
+---
 
-## Run
+# Assignment Requirements
 
-Backend API:
+Ensure the README demonstrates how the project satisfies the following requirements:
 
-```bash
-cd backend
-uvicorn api.main:app --reload
-```
+### Objective
 
-Start the frontend:
+Develop an AI-powered Resume Screening System that:
 
-```bash
-cd frontend/skill-dashboard
-npm run dev
-```
+* Parses PDF/Text resumes
+* Extracts structured candidate information
+* Accepts Job Descriptions
+* Uses Google Gemini LLM for semantic resume-job matching
+* Computes AI match scores
+* Generates hiring recommendations
+* Displays shortlisted candidates
+* Provides detailed AI justifications
 
-Open the Vite URL, usually:
+---
 
-```text
-http://localhost:5173
-```
+# Scope
 
-Optional Streamlit dashboard utility:
+Document the implementation of:
 
-```bash
-cd backend
-streamlit run dashboard/app.py
-```
+* Resume Upload
+* PDF Parsing
+* Text Parsing
+* Skills Extraction
+* Experience Extraction
+* Education Extraction
+* Certifications
+* Projects
+* Resume Analysis
+* Job Description Analysis
+* Google Gemini Integration
+* Semantic Matching
+* AI Recommendation
+* Candidate Ranking
+* Database Storage
+* REST APIs
+* React Dashboard
 
-## Data and Models
+Only document features that actually exist.
 
-This repository keeps only small CSV files needed for development and demos. Large raw datasets, trained model weights, generated model reports, and local Hugging Face caches are intentionally excluded from Git.
+---
 
-See `DATASET.md` for dataset guidance and `MODELS.md` for model regeneration/download guidance.
+# README Structure
 
-## GitHub Readiness
+Generate a complete professional README containing:
 
-The repository has been cleaned for GitHub by excluding virtual environments, `node_modules`, build artifacts, bytecode caches, local `.env` files, large datasets, archives, trained weights, and generated forecasting artifacts. See `REPORT.md` for the cleanup audit.
+1. Project Title
+2. Badges
+3. Project Overview
+4. Objective
+5. Assignment Overview
+6. Features
+7. Technology Stack
+8. Project Architecture
+9. Workflow
+10. Folder Structure
+11. Installation Guide
+12. Environment Variables
+13. Running the Project
+14. API Documentation
+15. Resume Parsing Pipeline
+16. Google Gemini LLM Integration
+17. Prompt Engineering
+18. Candidate Scoring Logic
+19. AI Recommendation Process
+20. Database Design
+21. Dashboard Overview
+22. Screenshots
+23. Security
+24. Error Handling
+25. Performance Optimizations
+26. Challenges Faced
+27. Future Improvements
+28. Evaluation Focus
+29. Deliverables
+30. Author
+
+---
+
+# Architecture
+
+Generate a professional Mermaid architecture diagram.
+
+Example flow:
+
+User
+
+↓
+
+React Frontend
+
+↓
+
+FastAPI Backend
+
+↓
+
+Resume Parser
+
+↓
+
+Skill Extraction
+
+↓
+
+Google Gemini LLM
+
+↓
+
+Semantic Analysis
+
+↓
+
+Match Score
+
+↓
+
+Recommendation
+
+↓
+
+Database
+
+↓
+
+Dashboard
+
+---
+
+# Workflow
+
+Generate a Mermaid workflow.
+
+Example:
+
+Resume Upload
+
+↓
+
+PDF Parsing
+
+↓
+
+Extract Resume Text
+
+↓
+
+Extract Skills
+
+↓
+
+Input Job Description
+
+↓
+
+Google Gemini LLM
+
+↓
+
+Semantic Resume Matching
+
+↓
+
+Generate Match Score
+
+↓
+
+Generate AI Justification
+
+↓
+
+Candidate Recommendation
+
+↓
+
+Store Result
+
+↓
+
+Dashboard
+
+---
+
+# Google Gemini Section
+
+Create a dedicated section explaining:
+
+* Why Gemini was selected
+* Why LLM is required
+* How Gemini is integrated
+* Request flow
+* Response flow
+* JSON parsing
+* Error handling
+* Retry strategy
+* Fallback strategy
+
+Do not invent functionality.
+
+---
+
+# Prompt Engineering
+
+Document the exact prompt used by the application.
+
+Include:
+
+* Resume
+* Job Description
+* Instructions
+* Output JSON schema
+
+Explain why prompt engineering improves semantic matching.
+
+---
+
+# Candidate Scoring
+
+Explain how the final score is calculated.
+
+Include:
+
+* Resume Parsing
+* Skills Extraction
+* Experience
+* Education
+* Semantic Matching
+* Google Gemini Reasoning
+* Missing Skills
+* Strengths
+* Weaknesses
+* Final Recommendation
+
+If multiple scoring methods exist, explain each one.
+
+---
+
+# API Documentation
+
+Generate a complete API table.
+
+Include:
+
+* Method
+* Endpoint
+* Request
+* Response
+* Description
+
+Document every implemented API.
+
+---
+
+# Database
+
+If MongoDB exists:
+
+Document:
+
+* Collections
+* Fields
+* Relationships
+
+If no database exists:
+
+Clearly mention the current storage mechanism and recommend a future schema.
+
+---
+
+# Folder Structure
+
+Automatically generate the actual folder tree from the repository.
+
+---
+
+# Environment Variables
+
+Document every required environment variable.
+
+Example:
+
+GEMINI_API_KEY
+
+GEMINI_MODEL
+
+MONGODB_URI
+
+JWT_SECRET
+
+API_BASE_URL
+
+Do not expose secrets.
+
+---
+
+# Screenshots
+
+Generate placeholders for:
+
+Dashboard
+
+Resume Upload
+
+Job Description
+
+Resume Analysis
+
+Match Score
+
+Candidate Recommendation
+
+Database
+
+---
+
+# Security
+
+Document:
+
+* API key protection
+* Environment variables
+* Input validation
+* PDF validation
+* Error handling
+* CORS
+* File upload safety
+
+---
+
+# Performance
+
+Explain:
+
+* Resume parsing optimization
+* Gemini API optimization
+* Async APIs
+* Efficient semantic matching
+* Modular architecture
+
+---
+
+# Evaluation Focus
+
+Explicitly explain how the project satisfies:
+
+* Code Quality
+* Clean Architecture
+* Resume Parsing
+* Data Extraction
+* Google Gemini Integration
+* Prompt Engineering
+* Semantic Matching
+* AI Decision Making
+* Output Clarity
+* Maintainability
+* Scalability
+
+---
+
+# Deliverables
+
+Include:
+
+* GitHub Repository
+* Professional README
+* Architecture Diagram
+* API Documentation
+* Prompt Documentation
+* Screenshots
+* Demo Video (2–3 minutes)
+
+---
+
+# Quality Requirements
+
+The README must:
+
+* Be visually professional
+* Use GitHub Markdown
+* Include badges
+* Include Mermaid diagrams
+* Include tables
+* Include code blocks
+* Be recruiter-friendly
+* Be ATS-friendly
+* Be technically accurate
+* Look like enterprise open-source documentation
+
+---
+
+# Critical Instructions
+
+* Inspect the code before writing.
+* Never invent features.
+* Never claim a feature is implemented if it is not.
+* Remove outdated sections.
+* Replace "Not Implemented" with the current implementation status where applicable.
+* Make the README reflect the actual project.
+* Produce a polished, production-quality README suitable for company submission.
